@@ -1,0 +1,1101 @@
+CustomerID,FirstName,LastName,DateOfBirth,AddressID,CustomerTypeID,FullName,Age,Age_Group
+10832,Nyla,Aguirre,1974-02-07 00:00:00.000000,881,1,Nyla Aguirre,51,Adult
+10983,Unknow,Battle,1963-02-01 00:00:00.000000,958,2,Unknow Battle,62,Senior
+10837,Angelena,Harrington,1964-03-25 00:00:00.000000,86,3,Angelena Harrington,61,Senior
+10107,Remona,Glass,1965-09-16 00:00:00.000000,595,1,Remona Glass,60,Adult
+10553,King,Becker,1966-02-20 00:00:00.000000,969,3,King Becker,59,Adult
+10867,Mathew,Kinney,1997-06-26 00:00:00.000000,866,3,Mathew Kinney,28,Young Adult
+10861,Roderick,Mckee,1980-02-04 00:00:00.000000,604,3,Roderick Mckee,45,Adult
+10964,Jewell,Flowers,1978-05-31 00:00:00.000000,700,3,Jewell Flowers,47,Adult
+10578,Shizuko,Boyer,2000-08-23 00:00:00.000000,635,3,Shizuko Boyer,25,Young Adult
+10148,Avelina,Barker,1997-10-27 00:00:00.000000,28,2,Avelina Barker,28,Young Adult
+10790,Cliff,Short,1969-01-14 00:00:00.000000,193,3,Cliff Short,57,Adult
+10125,Amberly,Bowen,2000-01-27 00:00:00.000000,982,2,Amberly Bowen,25,Young Adult
+10233,Nisha,unknow,1999-09-15 00:00:00.000000,591,1,Nisha unknow,26,Young Adult
+10234,Eduardo,Goff,1968-11-17 00:00:00.000000,85,1,Eduardo Goff,57,Adult
+10961,Audrea,French,1962-03-29 00:00:00.000000,670,1,Audrea French,63,Senior
+10671,Sherell,Hamilton,1996-07-14 00:00:00.000000,1041,1,Sherell Hamilton,29,Young Adult
+10682,Ambrose,Harrison,1976-06-29 00:00:00.000000,455,1,Ambrose Harrison,49,Adult
+10533,Rodolfo,Fitzgerald,1988-02-12 00:00:00.000000,634,2,Rodolfo Fitzgerald,37,Adult
+10523,Phil,Clay,1999-11-02 00:00:00.000000,479,3,Phil Clay,26,Young Adult
+10131,Quintin,Wheeler,1976-01-21 00:00:00.000000,1201,1,Quintin Wheeler,50,Adult
+10575,Mel,Hobbs,1992-12-18 00:00:00.000000,143,1,Mel Hobbs,33,Young Adult
+10941,Lamont,Mcgowan,2000-03-16 00:00:00.000000,87,2,Lamont Mcgowan,25,Young Adult
+10252,Loralee,Dodson,1988-10-13 00:00:00.000000,1058,1,Loralee Dodson,37,Adult
+10830,Unknow,Burt,1992-06-29 00:00:00.000000,1169,2,Unknow Burt,33,Young Adult
+10223,Ray,Farmer,1998-01-11 00:00:00.000000,193,1,Ray Farmer,28,Young Adult
+10922,Adan,Benton,1997-07-29 00:00:00.000000,841,1,Adan Benton,28,Young Adult
+10048,Matthew,Mcclure,1991-01-16 00:00:00.000000,615,2,Matthew Mcclure,35,Young Adult
+10001,Sherrell,Barlow,1969-06-07 00:00:00.000000,560,2,Sherrell Barlow,56,Adult
+10013,Eric,Franks,1966-04-14 00:00:00.000000,849,3,Eric Franks,59,Adult
+10165,Dominique,Allison,1984-04-28 00:00:00.000000,1176,1,Dominique Allison,41,Adult
+10466,Bruce,Branch,1988-02-11 00:00:00.000000,675,1,Bruce Branch,37,Adult
+10938,Graham,Dalton,1999-05-01 00:00:00.000000,400,1,Graham Dalton,26,Young Adult
+10641,Gino,Hopkins,1964-11-23 00:00:00.000000,740,2,Gino Hopkins,61,Senior
+10222,Verline,Kelley,1980-05-02 00:00:00.000000,699,3,Verline Kelley,45,Adult
+10420,Bruna,Henry,1964-04-17 00:00:00.000000,152,2,Bruna Henry,61,Senior
+10296,Zandra,Delaney,1988-03-04 00:00:00.000000,579,3,Zandra Delaney,37,Adult
+10376,Mardell,Nguyen,1965-06-19 00:00:00.000000,1077,1,Mardell Nguyen,60,Adult
+10987,Rosana,Drake,1971-10-26 00:00:00.000000,1196,3,Rosana Drake,54,Adult
+10133,Eliseo,Cantu,1977-06-11 00:00:00.000000,756,3,Eliseo Cantu,48,Adult
+10673,Demetrius,Roth,1994-05-20 00:00:00.000000,340,1,Demetrius Roth,31,Young Adult
+11077,Reynalda,Flynn,1972-03-21 00:00:00.000000,920,3,Reynalda Flynn,53,Adult
+10777,Jacquelynn,Bush,1997-09-19 00:00:00.000000,12,3,Jacquelynn Bush,28,Young Adult
+10854,Leontine,May,2000-12-07 00:00:00.000000,36,1,Leontine May,25,Young Adult
+10512,Deeann,Spears,1961-01-25 00:00:00.000000,905,2,Deeann Spears,64,Senior
+10045,Yasuko,Greer,1986-11-09 00:00:00.000000,945,1,Yasuko Greer,39,Adult
+10066,Calvin,Donaldson,1967-06-24 00:00:00.000000,517,2,Calvin Donaldson,58,Adult
+11082,Pierre,Cross,1989-09-18 00:00:00.000000,463,3,Pierre Cross,36,Adult
+10816,Riva,Powell,1972-10-02 00:00:00.000000,109,2,Riva Powell,53,Adult
+11083,Elfreda,Sheppard,1994-04-05 00:00:00.000000,1200,3,Elfreda Sheppard,31,Young Adult
+10598,Rudy,Lott,1998-11-06 00:00:00.000000,1048,1,Rudy Lott,27,Young Adult
+10675,Pete,Marks,1969-06-09 00:00:00.000000,304,2,Pete Marks,56,Adult
+10196,BraEdon,Boone,1986-09-13 00:00:00.000000,500,1,BraEdon Boone,39,Adult
+10568,Mirtha,Bowman,1965-05-26 00:00:00.000000,606,2,Mirtha Bowman,60,Adult
+10748,Glayds,Russo,1996-05-30 00:00:00.000000,620,1,Glayds Russo,29,Young Adult
+10740,Eleanora,Gates,1987-07-17 00:00:00.000000,655,2,Eleanora Gates,38,Adult
+10161,Unknow,Pena,1975-03-23 00:00:00.000000,634,1,Unknow Pena,50,Adult
+10449,Shaun,Arnold,2000-10-07 00:00:00.000000,768,3,Shaun Arnold,25,Young Adult
+10044,Jeanmarie,Fulton,1976-10-08 00:00:00.000000,298,3,Jeanmarie Fulton,49,Adult
+10676,Ammie,Mcguire,1967-07-07 00:00:00.000000,331,1,Ammie Mcguire,58,Adult
+10511,Shaunda,Watkins,1998-01-01 00:00:00.000000,195,3,Shaunda Watkins,28,Young Adult
+10759,Reginald,Anthony,1985-02-28 00:00:00.000000,421,1,Reginald Anthony,40,Adult
+10425,Suellen,Zimmerman,1986-06-02 00:00:00.000000,956,3,Suellen Zimmerman,39,Adult
+10080,Freeman,Kelly,1974-05-31 00:00:00.000000,97,3,Freeman Kelly,51,Adult
+10437,Lincoln,Bartlett,1978-02-22 00:00:00.000000,182,2,Lincoln Bartlett,47,Adult
+10536,Jamie,Swanson,1996-03-30 00:00:00.000000,523,2,Jamie Swanson,29,Young Adult
+10123,Cecille,Spencer,1993-12-05 00:00:00.000000,499,2,Cecille Spencer,32,Young Adult
+10436,Chantell,Schneider,1993-01-03 00:00:00.000000,268,3,Chantell Schneider,33,Young Adult
+10720,Gabriel,Craft,1984-04-23 00:00:00.000000,1083,3,Gabriel Craft,41,Adult
+10118,Tonie,Heath,1993-01-14 00:00:00.000000,681,1,Tonie Heath,33,Young Adult
+10208,Barton,Hart,1976-09-30 00:00:00.000000,251,3,Barton Hart,49,Adult
+10253,Charita,Farmer,1999-11-28 00:00:00.000000,137,3,Charita Farmer,26,Young Adult
+10843,Salena,Burton,1968-10-30 00:00:00.000000,77,2,Salena Burton,57,Adult
+10793,Marinda,David,1960-05-08 00:00:00.000000,375,1,Marinda David,65,Senior
+10689,Melita,Beach,1968-06-12 00:00:00.000000,754,1,Melita Beach,57,Adult
+10755,Damien,Hatfield,1960-12-28 00:00:00.000000,824,2,Damien Hatfield,65,Senior
+10384,Mammie,Faulkner,,988,2,Mammie Faulkner,45,Adult
+10900,Shirleen,Gamble,1960-02-20 00:00:00.000000,962,1,Shirleen Gamble,65,Senior
+10320,Lavera,Keller,1989-05-20 00:00:00.000000,244,1,Lavera Keller,36,Adult
+10170,Benito,Talley,1969-07-17 00:00:00.000000,335,1,Benito Talley,56,Adult
+10813,Rasheeda,Holt,1990-02-02 00:00:00.000000,1012,3,Rasheeda Holt,35,Young Adult
+10267,Toshia,Reyes,1973-11-10 00:00:00.000000,1196,2,Toshia Reyes,52,Adult
+10046,Lilli,Hyde,1963-06-18 00:00:00.000000,364,1,Lilli Hyde,62,Senior
+10821,Kathrin,Rocha,1963-08-07 00:00:00.000000,1052,1,Kathrin Rocha,62,Senior
+10240,Criselda,Hull,1989-08-07 00:00:00.000000,844,1,Criselda Hull,36,Adult
+10875,Kanisha,Houston,1989-08-31 00:00:00.000000,992,2,Kanisha Houston,36,Adult
+10819,Shane,Aguirre,1981-11-20 00:00:00.000000,1103,1,Shane Aguirre,44,Adult
+10467,Mike,Keith,1987-01-01 00:00:00.000000,595,2,Mike Keith,39,Adult
+10904,Jason,Cameron,1973-07-07 00:00:00.000000,596,3,Jason Cameron,52,Adult
+10902,The,Lindsey,1992-11-25 00:00:00.000000,480,1,The Lindsey,33,Young Adult
+10531,Kurtis,Cardenas,1964-04-21 00:00:00.000000,160,2,Kurtis Cardenas,61,Senior
+10677,Gianna,Day,1995-04-28 00:00:00.000000,1091,3,Gianna Day,30,Young Adult
+10991,Nieves,Baird,1968-11-06 00:00:00.000000,233,1,Nieves Baird,57,Adult
+10145,Unknow,Rogers,1985-03-22 00:00:00.000000,869,2,Unknow Rogers,40,Adult
+10655,Lurlene,Carver,1965-04-01 00:00:00.000000,931,3,Lurlene Carver,60,Adult
+10400,Maryam,Small,1990-09-28 00:00:00.000000,556,2,Maryam Small,35,Young Adult
+10580,Val,Romero,1991-11-01 00:00:00.000000,103,3,Val Romero,34,Young Adult
+10209,Eleni,Joyner,1998-08-11 00:00:00.000000,541,2,Eleni Joyner,27,Young Adult
+10639,Mitch,Carver,1987-11-26 00:00:00.000000,99,1,Mitch Carver,38,Adult
+10479,Bernardine,Reeves,1969-02-03 00:00:00.000000,120,3,Bernardine Reeves,56,Adult
+10849,Dino,Calhoun,1983-12-23 00:00:00.000000,480,2,Dino Calhoun,42,Adult
+10401,Hilaria,Rasmussen,1994-01-08 00:00:00.000000,96,3,Hilaria Rasmussen,32,Young Adult
+10668,Edison,Walsh,1973-11-07 00:00:00.000000,727,1,Edison Walsh,52,Adult
+11076,Devorah,Kline,1996-02-14 00:00:00.000000,423,1,Devorah Kline,29,Young Adult
+10881,Lachelle,Jones,1998-09-01 00:00:00.000000,1104,3,Lachelle Jones,27,Young Adult
+10560,Quentin,Pope,1993-06-10 00:00:00.000000,967,1,Quentin Pope,32,Young Adult
+10679,Pandora,Cooley,1969-03-31 00:00:00.000000,1018,3,Pandora Cooley,56,Adult
+10579,Hong,Carson,1970-03-20 00:00:00.000000,658,1,Hong Carson,55,Adult
+10311,Vashti,Gross,1995-06-19 00:00:00.000000,28,2,Vashti Gross,30,Young Adult
+10681,Odell,Estrada,1989-08-03 00:00:00.000000,399,2,Odell Estrada,36,Adult
+10988,Van,Hinton,1974-12-31 00:00:00.000000,69,3,Van Hinton,51,Adult
+10696,Timothy,Fernandez,1968-09-02 00:00:00.000000,328,1,Timothy Fernandez,57,Adult
+10072,Bud,Lynch,1990-05-07 00:00:00.000000,1199,3,Bud Lynch,35,Young Adult
+10495,Harvey,Lindsay,1997-05-22 00:00:00.000000,703,2,Harvey Lindsay,28,Young Adult
+10307,Van,Frank,1990-06-10 00:00:00.000000,217,3,Van Frank,35,Young Adult
+10205,Raymond,Booth,1986-05-25 00:00:00.000000,854,1,Raymond Booth,39,Adult
+10038,Juliane,Compton,1984-06-12 00:00:00.000000,194,2,Juliane Compton,41,Adult
+10150,Virgil,Horne,1982-10-18 00:00:00.000000,1148,2,Virgil Horne,43,Adult
+10248,Carmelina,Sykes,1982-08-31 00:00:00.000000,376,2,Carmelina Sykes,43,Adult
+10478,Wan,Hardin,1993-12-14 00:00:00.000000,621,2,Wan Hardin,32,Young Adult
+10683,Lane,Love,1970-07-29 00:00:00.000000,677,1,Lane Love,55,Adult
+10888,Clay,Duffy,1961-05-25 00:00:00.000000,1169,1,Clay Duffy,64,Senior
+10424,Santos,Atkinson,1969-09-14 00:00:00.000000,502,2,Santos Atkinson,56,Adult
+10144,Jospeh,Hodges,1993-08-23 00:00:00.000000,477,1,Jospeh Hodges,32,Young Adult
+10684,Lindsey,Henry,1983-01-30 00:00:00.000000,165,1,Lindsey Henry,42,Adult
+10626,Johnson,Lawrence,,143,2,Johnson Lawrence,45,Adult
+10763,Benedict,Roy,1991-11-03 00:00:00.000000,937,3,Benedict Roy,34,Young Adult
+10539,Arletta,Sykes,1974-07-14 00:00:00.000000,138,1,Arletta Sykes,51,Adult
+10337,Jamar,Brooks,1997-08-20 00:00:00.000000,590,2,Jamar Brooks,28,Young Adult
+11031,Van,Rojas,1971-03-22 00:00:00.000000,590,3,Van Rojas,54,Adult
+10179,Unknow,James,1972-05-09 00:00:00.000000,235,3,Unknow James,53,Adult
+10871,Tiffiny,Vinson,1964-05-09 00:00:00.000000,362,2,Tiffiny Vinson,61,Senior
+10855,Kit,Williamson,1961-06-20 00:00:00.000000,1142,1,Kit Williamson,64,Senior
+10130,Wava,Strong,1987-12-14 00:00:00.000000,554,3,Wava Strong,38,Adult
+10551,Ashley,Mayer,1995-05-13 00:00:00.000000,621,3,Ashley Mayer,30,Young Adult
+10434,Raymundo,Castaneda,2000-07-02 00:00:00.000000,561,1,Raymundo Castaneda,25,Young Adult
+10572,Demarcus,Hancock,1978-10-27 00:00:00.000000,642,3,Demarcus Hancock,47,Adult
+10409,Ezekiel,Roth,1960-03-11 00:00:00.000000,193,1,Ezekiel Roth,65,Senior
+10803,Omar,Vaughn,1991-02-09 00:00:00.000000,850,3,Omar Vaughn,34,Young Adult
+10761,Yuri,Brennan,1961-08-09 00:00:00.000000,707,2,Yuri Brennan,64,Senior
+10503,Simon,Nicholson,1985-05-31 00:00:00.000000,1110,1,Simon Nicholson,40,Adult
+10968,Melvin,Logan,1961-05-15 00:00:00.000000,775,1,Melvin Logan,64,Senior
+10426,Damion,Compton,1991-07-27 00:00:00.000000,1190,1,Damion Compton,34,Young Adult
+10741,Leroy,Clarke,1962-06-17 00:00:00.000000,437,3,Leroy Clarke,63,Senior
+10086,Rafael,Buck,1977-05-04 00:00:00.000000,524,1,Rafael Buck,48,Adult
+10093,Jacquelyne,Mcpherson,1974-06-10 00:00:00.000000,1015,2,Jacquelyne Mcpherson,51,Adult
+10468,Earnest,West,1983-03-14 00:00:00.000000,957,1,Earnest West,42,Adult
+10926,Verline,Steele,1982-09-05 00:00:00.000000,391,3,Verline Steele,43,Adult
+10929,Kareem,Schmidt,1992-07-27 00:00:00.000000,451,2,Kareem Schmidt,33,Young Adult
+11012,Angelika,Hoover,1976-09-16 00:00:00.000000,901,3,Angelika Hoover,49,Adult
+10362,Yessenia,Conner,1999-07-06 00:00:00.000000,704,1,Yessenia Conner,26,Young Adult
+10648,Bradley,Richards,1977-05-19 00:00:00.000000,949,1,Bradley Richards,48,Adult
+10525,Lucio,unknow,1967-11-13 00:00:00.000000,1060,1,Lucio unknow,58,Adult
+10190,Kareen,Tyson,1987-05-15 00:00:00.000000,325,1,Kareen Tyson,38,Adult
+10361,Hanh,Vincent,2025-09-28 15:01:42.854835,29,1,Hanh Vincent,0,Minor
+10699,Claudio,unknow,1983-10-15 00:00:00.000000,614,2,Claudio unknow,42,Adult
+10198,Jamaal,James,1998-08-06 00:00:00.000000,358,2,Jamaal James,27,Young Adult
+10140,Eddie,Contreras,1972-07-11 00:00:00.000000,230,2,Eddie Contreras,53,Adult
+10332,Salley,Buckner,1987-03-01 00:00:00.000000,1080,3,Salley Buckner,38,Adult
+10069,Vena,Huber,1989-08-17 00:00:00.000000,905,2,Vena Huber,36,Adult
+10063,Adolfo,Bean,1968-06-12 00:00:00.000000,358,2,Adolfo Bean,57,Adult
+11055,Martin,Russo,1988-09-17 00:00:00.000000,116,3,Martin Russo,37,Adult
+10168,Lonnie,Benson,1992-05-17 00:00:00.000000,916,3,Lonnie Benson,33,Young Adult
+10672,Jaime,Santos,1999-12-05 00:00:00.000000,1010,1,Jaime Santos,26,Young Adult
+11033,Johanne,Burch,1988-11-10 00:00:00.000000,934,1,Johanne Burch,37,Adult
+11093,Larry,Lewis,1968-08-20 00:00:00.000000,103,3,Larry Lewis,57,Adult
+10149,Elijah,Sweet,1972-11-14 00:00:00.000000,548,1,Elijah Sweet,53,Adult
+10373,wrice,Giles,1982-11-23 00:00:00.000000,838,1,wrice Giles,43,Adult
+10957,Adriene,Slater,1998-12-14 00:00:00.000000,917,2,Adriene Slater,27,Young Adult
+10588,Dino,Valentine,1963-04-14 00:00:00.000000,674,1,Dino Valentine,62,Senior
+11030,Rudolph,Patton,1990-11-04 00:00:00.000000,571,2,Rudolph Patton,35,Young Adult
+10687,Alex,Blankenship,1972-06-01 00:00:00.000000,919,1,Alex Blankenship,53,Adult
+10491,Delora,Richmond,1990-09-13 00:00:00.000000,39,3,Delora Richmond,35,Young Adult
+10017,Kristopher,Whitaker,1987-01-01 00:00:00.000000,642,1,Kristopher Whitaker,39,Adult
+10004,Natashia,Gillespie,1985-05-27 00:00:00.000000,668,2,Natashia Gillespie,40,Adult
+10239,Sean,Pope,1997-09-13 00:00:00.000000,896,3,Sean Pope,28,Young Adult
+10992,Deon,Kline,1976-12-31 00:00:00.000000,758,1,Deon Kline,49,Adult
+10656,Genny,Woodard,2000-09-01 00:00:00.000000,1043,1,Genny Woodard,25,Young Adult
+10937,Wes,Gamble,1970-10-05 00:00:00.000000,1047,1,Wes Gamble,55,Adult
+11006,Deshawn,unknow,1973-01-20 00:00:00.000000,55,2,Deshawn unknow,53,Adult
+10462,Vashti,Baldwin,1975-07-13 00:00:00.000000,530,3,Vashti Baldwin,50,Adult
+10912,Mariano,Bean,1976-12-10 00:00:00.000000,95,2,Mariano Bean,49,Adult
+10355,Jacquiline,unknow,1960-09-18 00:00:00.000000,1107,3,Jacquiline unknow,65,Senior
+10043,Beau,Byrd,1976-05-08 00:00:00.000000,1044,3,Beau Byrd,49,Adult
+10606,Theo,Ashley,1997-07-13 00:00:00.000000,937,1,Theo Ashley,28,Young Adult
+10827,Romeo,Reed,1977-08-01 00:00:00.000000,15,3,Romeo Reed,48,Adult
+10338,Otelia,Alexander,1998-01-26 00:00:00.000000,1200,1,Otelia Alexander,27,Young Adult
+10778,Madie,unknow,1976-08-05 00:00:00.000000,371,1,Madie unknow,49,Adult
+10607,Jesenia,Wade,1970-05-03 00:00:00.000000,637,2,Jesenia Wade,55,Adult
+10298,Renetta,Logan,2000-08-08 00:00:00.000000,405,2,Renetta Logan,25,Young Adult
+10559,Stephen,Hale,1990-05-26 00:00:00.000000,713,2,Stephen Hale,35,Young Adult
+10142,Xavier,Meyer,1976-08-13 00:00:00.000000,785,2,Xavier Meyer,49,Adult
+10364,Dannielle,Bray,1994-09-28 00:00:00.000000,1164,3,Dannielle Bray,31,Young Adult
+10340,Omar,Whitakr,1996-01-15 00:00:00.000000,1183,1,Omar Whitakr,30,Young Adult
+10112,Gene,Lopez,1992-10-01 00:00:00.000000,604,1,Gene Lopez,33,Young Adult
+10020,Hilde,Kaufman,1968-11-23 00:00:00.000000,1190,2,Hilde Kaufman,57,Adult
+10949,Boyd,Dickson,1997-02-18 00:00:00.000000,1172,1,Boyd Dickson,28,Young Adult
+10138,Max,Kim,1963-02-22 00:00:00.000000,777,2,Max Kim,62,Senior
+10700,Wendolyn,Powers,2000-01-21 00:00:00.000000,564,3,Wendolyn Powers,25,Young Adult
+10627,Keenan,Good,1991-02-28 00:00:00.000000,782,1,Keenan Good,34,Young Adult
+10226,Thurman,unknow,,1020,2,Thurman unknow,45,Adult
+10574,August,Lamb,1996-06-09 00:00:00.000000,352,1,August Lamb,29,Young Adult
+10203,Christopher,Randall,1995-05-05 00:00:00.000000,405,2,Christopher Randall,30,Young Adult
+11066,Warren,Lawrence,2000-11-25 00:00:00.000000,65,3,Warren Lawrence,25,Young Adult
+10075,Cythia,Marshall,1966-06-10 00:00:00.000000,1027,3,Cythia Marshall,59,Adult
+10640,Emil,Rocha,1963-06-01 00:00:00.000000,86,3,Emil Rocha,62,Senior
+10713,Gilbert,Bernard,,1139,1,Gilbert Bernard,45,Adult
+10695,Mirella,Gibson,1961-03-16 00:00:00.000000,158,3,Mirella Gibson,64,Senior
+10760,Rolando,Serrano,1995-04-24 00:00:00.000000,651,2,Rolando Serrano,30,Young Adult
+10899,Corliss,Willis,1969-10-01 00:00:00.000000,331,1,Corliss Willis,56,Adult
+10136,Isidro,Melendez,1984-02-03 00:00:00.000000,894,1,Isidro Melendez,41,Adult
+10826,Onita,Christensen,1987-01-15 00:00:00.000000,70,3,Onita Christensen,39,Adult
+10105,Lance,Mcleod,2000-04-21 00:00:00.000000,805,2,Lance Mcleod,25,Young Adult
+10852,Chung,Neal,1991-08-06 00:00:00.000000,166,3,Chung Neal,34,Young Adult
+10998,Booker,Booth,1997-10-27 00:00:00.000000,1184,2,Booker Booth,28,Young Adult
+10658,Emerson,Mathis,1970-08-11 00:00:00.000000,91,2,Emerson Mathis,55,Adult
+10764,Willodean,Calhoun,1992-06-09 00:00:00.000000,123,1,Willodean Calhoun,33,Young Adult
+10451,Kurtis,Hanson,1965-08-08 00:00:00.000000,625,2,Kurtis Hanson,60,Adult
+10302,Lexie,Hendrix,1996-03-28 00:00:00.000000,405,1,Lexie Hendrix,29,Young Adult
+10624,Valene,Welch,1969-02-23 00:00:00.000000,655,3,Valene Welch,56,Adult
+10494,Michel,Snider,1965-12-28 00:00:00.000000,1061,2,Michel Snider,60,Adult
+10986,Hertha,Harmon,1961-11-17 00:00:00.000000,628,3,Hertha Harmon,64,Senior
+10359,Loris,Chase,1970-08-31 00:00:00.000000,455,3,Loris Chase,55,Adult
+11098,Amee,York,1976-02-19 00:00:00.000000,85,2,Amee York,49,Adult
+10907,Carlee,Bradley,1960-10-24 00:00:00.000000,542,1,Carlee Bradley,65,Senior
+10785,Cornell,Rosales,1961-07-22 00:00:00.000000,869,1,Cornell Rosales,64,Senior
+10877,Londa,Sanchez,1986-04-19 00:00:00.000000,324,2,Londa Sanchez,39,Adult
+10256,Leopoldo,Sweney,1991-01-04 00:00:00.000000,1124,2,Leopoldo Sweney,35,Young Adult
+10331,Lynelle,Dyer,1990-05-22 00:00:00.000000,575,2,Lynelle Dyer,35,Young Adult
+10421,Dann,Gilbert,1986-01-08 00:00:00.000000,792,3,Dann Gilbert,40,Adult
+11062,Yevette,Fernandez,1964-07-24 00:00:00.000000,298,2,Yevette Fernandez,61,Senior
+11039,Loren,Becker,1989-08-26 00:00:00.000000,914,1,Loren Becker,36,Adult
+10773,Marchelle,Sexton,1972-03-14 00:00:00.000000,932,3,Marchelle Sexton,53,Adult
+10552,Colby,Harmon,1961-04-09 00:00:00.000000,903,2,Colby Harmon,64,Senior
+10842,Sherilyn,Middleton,1992-08-08 00:00:00.000000,354,2,Sherilyn Middleton,33,Young Adult
+10526,Roman,Mcclain,1992-07-25 00:00:00.000000,1031,2,Roman Mcclain,33,Young Adult
+11081,Sirena,Freeman,1978-03-10 00:00:00.000000,822,3,Sirena Freeman,47,Adult
+10317,Michelina,Barber,1979-08-27 00:00:00.000000,1115,3,Michelina Barber,46,Adult
+10334,Zandra,Soto,1973-10-23 00:00:00.000000,50,1,Zandra Soto,52,Adult
+10202,Elizabeth,Tillman,1977-01-07 00:00:00.000000,261,1,Elizabeth Tillman,49,Adult
+10583,Jeff,Rojas,1971-10-11 00:00:00.000000,306,1,Jeff Rojas,54,Adult
+11034,Gonzalo,Rocha,1986-10-15 00:00:00.000000,463,3,Gonzalo Rocha,39,Adult
+10268,Yahaira,Landry,1990-04-21 00:00:00.000000,641,1,Yahaira Landry,35,Young Adult
+10040,Nenita,O'connor,1980-07-03 00:00:00.000000,1127,1,Nenita O'connor,45,Adult
+10007,Rick,Rollins,1962-11-03 00:00:00.000000,762,1,Rick Rollins,63,Senior
+10329,Gwyn,Schneider,1995-06-28 00:00:00.000000,1132,2,Gwyn Schneider,30,Young Adult
+10250,Albertine,Baxter,1980-12-10 00:00:00.000000,976,1,Albertine Baxter,45,Adult
+10549,Ray,Phelps,1977-08-05 00:00:00.000000,393,2,Ray Phelps,48,Adult
+10071,Brady,Irwin,1996-08-11 00:00:00.000000,163,1,Brady Irwin,29,Young Adult
+11067,Nicky,Parrish,1988-03-10 00:00:00.000000,556,3,Nicky Parrish,37,Adult
+10113,Gaynelle,Mckee,1974-09-20 00:00:00.000000,130,1,Gaynelle Mckee,51,Adult
+11021,Chanelle,Allen,1981-12-18 00:00:00.000000,98,2,Chanelle Allen,44,Adult
+10193,Otha,Heath,1982-10-04 00:00:00.000000,753,2,Otha Heath,43,Adult
+10056,Murray,Salazar,1975-08-14 00:00:00.000000,509,2,Murray Salazar,50,Adult
+10969,Wenona,Newton,1982-07-19 00:00:00.000000,264,2,Wenona Newton,43,Adult
+10143,Carol,Forbes,1981-07-03 00:00:00.000000,902,1,Carol Forbes,44,Adult
+10970,Deandrea,Mckinney,1981-08-03 00:00:00.000000,60,3,Deandrea Mckinney,44,Adult
+10095,Vernetta,Hooper,1972-05-18 00:00:00.000000,408,1,Vernetta Hooper,53,Adult
+11019,Brain,Tucker,1987-10-08 00:00:00.000000,665,2,Brain Tucker,38,Adult
+10632,Kenton,Francis,1998-09-08 00:00:00.000000,1209,3,Kenton Francis,27,Young Adult
+10106,Jenine,Conner,2000-01-05 00:00:00.000000,1180,3,Jenine Conner,26,Young Adult
+10943,Chang,Mckee,1963-06-09 00:00:00.000000,381,1,Chang Mckee,62,Senior
+10482,Jetta,Vang,1999-07-19 00:00:00.000000,1186,2,Jetta Vang,26,Young Adult
+10506,Taylor,Barry,1972-03-07 00:00:00.000000,151,1,Taylor Barry,53,Adult
+10537,Ivory,Carter,1996-05-24 00:00:00.000000,145,2,Ivory Carter,29,Young Adult
+10798,Virgilio,Singleton,1999-07-14 00:00:00.000000,299,3,Virgilio Singleton,26,Young Adult
+10351,Valene,Perry,1967-06-18 00:00:00.000000,524,1,Valene Perry,58,Adult
+10135,Ramiro,Hodge,1973-05-18 00:00:00.000000,1190,1,Ramiro Hodge,52,Adult
+10914,Tien,Dale,1983-09-13 00:00:00.000000,697,1,Tien Dale,42,Adult
+10650,Inger,Burt,1962-06-10 00:00:00.000000,3,3,Inger Burt,63,Senior
+10879,Ivan,Morton,1996-07-13 00:00:00.000000,1035,2,Ivan Morton,29,Young Adult
+10127,Jamie,Lynn,1978-11-25 00:00:00.000000,325,1,Jamie Lynn,47,Adult
+11087,Unknow,Cortez,1969-10-14 00:00:00.000000,63,3,Unknow Cortez,56,Adult
+10049,Gema,Mckenzie,1980-09-16 00:00:00.000000,869,1,Gema Mckenzie,45,Adult
+10882,Latrisha,Maxwell,2025-10-06 15:01:42.854835,520,3,Latrisha Maxwell,0,Minor
+10073,Armanda,Mcguire,1991-07-09 00:00:00.000000,1109,2,Armanda Mcguire,34,Young Adult
+10844,Crissy,Mcclain,1985-01-13 00:00:00.000000,359,3,Crissy Mcclain,41,Adult
+10841,Marty,Berger,1969-12-25 00:00:00.000000,684,2,Marty Berger,56,Adult
+10435,Teddy,Harmon,1970-06-12 00:00:00.000000,745,3,Teddy Harmon,55,Adult
+10653,Faviola,Robertson,,1067,2,Faviola Robertson,45,Adult
+10505,Audrie,Juarez,,779,1,Audrie Juarez,45,Adult
+10124,Arlinda,Franks,1970-11-06 00:00:00.000000,171,1,Arlinda Franks,55,Adult
+10756,Miesha,Thornton,1975-05-28 00:00:00.000000,869,1,Miesha Thornton,50,Adult
+10567,Federico,Vaughn,1982-02-13 00:00:00.000000,635,3,Federico Vaughn,43,Adult
+10909,Nathanael,Flynn,1962-03-23 00:00:00.000000,900,3,Nathanael Flynn,63,Senior
+10736,Cindie,Alston,2000-05-24 00:00:00.000000,98,2,Cindie Alston,25,Young Adult
+10779,Amal,Drake,1980-01-26 00:00:00.000000,595,2,Amal Drake,45,Adult
+10865,Aurore,Dominguez,1976-09-16 00:00:00.000000,280,1,Aurore Dominguez,49,Adult
+10724,Shan,Robertson,1974-06-27 00:00:00.000000,413,2,Shan Robertson,51,Adult
+11011,Shanae,Holden,1976-04-19 00:00:00.000000,363,3,Shanae Holden,49,Adult
+11025,Romeo,Huff,1993-11-13 00:00:00.000000,12,2,Romeo Huff,32,Young Adult
+11008,Albertine,Moore,1964-06-27 00:00:00.000000,558,3,Albertine Moore,61,Senior
+10276,Rachell,Puckett,1978-12-24 00:00:00.000000,1122,2,Rachell Puckett,47,Adult
+10175,Chance,Chavez,1993-05-07 00:00:00.000000,1018,3,Chance Chavez,32,Young Adult
+10402,Jacqulyn,Hansen,1968-09-29 00:00:00.000000,737,1,Jacqulyn Hansen,57,Adult
+10933,Anthony,Hurley,1980-12-30 00:00:00.000000,369,3,Anthony Hurley,45,Adult
+10993,Rana,Briggs,1988-09-19 00:00:00.000000,1176,2,Rana Briggs,37,Adult
+10139,Lynna,unknow,,439,1,Lynna unknow,45,Adult
+10828,Zita,unknow,1969-11-25 00:00:00.000000,54,1,Zita unknow,56,Adult
+11032,Terina,King,1971-03-01 00:00:00.000000,145,3,Terina King,54,Adult
+11063,Doria,Booth,1988-09-03 00:00:00.000000,220,2,Doria Booth,37,Adult
+11061,Stuart,Justice,1966-07-27 00:00:00.000000,627,3,Stuart Justice,59,Adult
+10180,Mario,Shepherd,1975-05-03 00:00:00.000000,892,1,Mario Shepherd,50,Adult
+10365,Ariel,Parks,,1001,2,Ariel Parks,45,Adult
+10432,Unknow,Morton,1996-08-08 00:00:00.000000,1188,3,Unknow Morton,29,Young Adult
+11005,Kenneth,Sampson,1970-02-10 00:00:00.000000,328,2,Kenneth Sampson,55,Adult
+10206,Courtney,Martinez,1968-05-25 00:00:00.000000,506,1,Courtney Martinez,57,Adult
+10686,Mellie,Walker,1978-09-22 00:00:00.000000,1022,2,Mellie Walker,47,Adult
+10227,Edison,Mcclain,1979-02-03 00:00:00.000000,531,3,Edison Mcclain,46,Adult
+10431,Sima,Cleveland,1995-10-18 00:00:00.000000,327,3,Sima Cleveland,30,Young Adult
+10876,Curtis,Vasquez,1983-10-22 00:00:00.000000,1200,2,Curtis Vasquez,42,Adult
+10890,Unknow,Warner,1969-02-05 00:00:00.000000,746,3,Unknow Warner,56,Adult
+10739,Bronwyn,Hatfield,1987-11-04 00:00:00.000000,927,3,Bronwyn Hatfield,38,Adult
+10963,Dirk,Baldwin,1973-12-16 00:00:00.000000,490,1,Dirk Baldwin,52,Adult
+10481,Jewell,Richmond,1961-02-25 00:00:00.000000,536,3,Jewell Richmond,64,Senior
+11053,Morgan,Terry,1985-07-18 00:00:00.000000,1138,3,Morgan Terry,40,Adult
+10670,Mozella,Bentley,1977-03-06 00:00:00.000000,837,2,Mozella Bentley,48,Adult
+10727,Alessandra,Moreno,1969-01-04 00:00:00.000000,818,1,Alessandra Moreno,57,Adult
+10702,Thresa,Hopkins,1998-09-16 00:00:00.000000,517,2,Thresa Hopkins,27,Young Adult
+10024,Nichol,Bullock,1960-04-12 00:00:00.000000,1142,3,Nichol Bullock,65,Senior
+10500,Chauncey,Ward,,1062,2,Chauncey Ward,45,Adult
+10901,Dong,Charles,1961-01-12 00:00:00.000000,1003,1,Dong Charles,65,Senior
+10197,Celestina,Mullins,1987-06-18 00:00:00.000000,1093,1,Celestina Mullins,38,Adult
+10121,Gary,Berry,1964-08-11 00:00:00.000000,360,3,Gary Berry,61,Senior
+10039,Jarred,Valentine,1961-07-10 00:00:00.000000,776,3,Jarred Valentine,64,Senior
+10006,Fumiko,Case,1983-01-23 00:00:00.000000,623,3,Fumiko Case,42,Adult
+10023,Kayleigh,Hartman,1978-04-20 00:00:00.000000,283,2,Kayleigh Hartman,47,Adult
+10604,Unknow,Boyle,1965-10-18 00:00:00.000000,1149,3,Unknow Boyle,60,Adult
+10266,Sadye,Barnes,1963-03-31 00:00:00.000000,230,1,Sadye Barnes,62,Senior
+10410,Jean,Albert,1967-04-15 00:00:00.000000,700,2,Jean Albert,58,Adult
+10283,Pauletta,Whitney,1991-01-05 00:00:00.000000,449,3,Pauletta Whitney,35,Young Adult
+10387,Lynetta,Reese,1968-03-24 00:00:00.000000,447,3,Lynetta Reese,57,Adult
+11023,Antwan,Mclean,2000-11-19 00:00:00.000000,981,3,Antwan Mclean,25,Young Adult
+10249,Archie,Good,1998-06-29 00:00:00.000000,675,3,Archie Good,27,Young Adult
+10217,Tiesha,West,1988-03-23 00:00:00.000000,209,3,Tiesha West,37,Adult
+10554,Eloda,Hester,1965-09-08 00:00:00.000000,15,1,Eloda Hester,60,Adult
+10972,My,Herring,1974-09-08 00:00:00.000000,192,3,My Herring,51,Adult
+10547,Dusti,Maldonado,1996-10-03 00:00:00.000000,943,2,Dusti Maldonado,29,Young Adult
+10566,Dusty,Guzman,1999-05-13 00:00:00.000000,82,1,Dusty Guzman,26,Young Adult
+10513,Song,Ellis,1978-09-16 00:00:00.000000,983,1,Song Ellis,47,Adult
+10850,Laine,Montgomery,1989-08-28 00:00:00.000000,1115,3,Laine Montgomery,36,Adult
+10151,Sherwood,Kemp,1997-05-25 00:00:00.000000,557,1,Sherwood Kemp,28,Young Adult
+10984,Valentine,Spencer,1960-10-11 00:00:00.000000,1075,3,Valentine Spencer,65,Senior
+10534,Unknow,Wiggins,1962-10-05 00:00:00.000000,741,3,Unknow Wiggins,63,Senior
+11086,Kurt,Mack,1960-04-03 00:00:00.000000,759,1,Kurt Mack,65,Senior
+10703,Larry,Hughes,1971-05-24 00:00:00.000000,755,2,Larry Hughes,54,Adult
+10615,Yong,Gentry,1979-04-23 00:00:00.000000,653,3,Yong Gentry,46,Adult
+10735,Jonas,Santiago,1996-01-06 00:00:00.000000,1015,3,Jonas Santiago,30,Young Adult
+10542,Mitch,Fry,1970-09-16 00:00:00.000000,1007,3,Mitch Fry,55,Adult
+10563,Jay,Lyons,1960-05-20 00:00:00.000000,173,2,Jay Lyons,65,Senior
+10603,Harley,Yates,1994-07-25 00:00:00.000000,825,2,Harley Yates,31,Young Adult
+10183,Martin,Cox,1967-09-17 00:00:00.000000,670,2,Martin Cox,58,Adult
+10921,Donovan,Wynn,1995-06-28 00:00:00.000000,542,3,Donovan Wynn,30,Young Adult
+10068,Micha,Salinas,1995-04-14 00:00:00.000000,1183,1,Micha Salinas,30,Young Adult
+10535,Muoi,Horton,1966-03-07 00:00:00.000000,843,2,Muoi Horton,59,Adult
+10896,Kurt,Dominguez,1995-02-14 00:00:00.000000,927,2,Kurt Dominguez,30,Young Adult
+10000,Maybell,Acevedo,1979-12-27 00:00:00.000000,1021,2,Maybell Acevedo,46,Adult
+10708,Mitsuko,Hatfield,1968-07-22 00:00:00.000000,794,1,Mitsuko Hatfield,57,Adult
+10590,Gilberto,Winters,1988-09-23 00:00:00.000000,501,1,Gilberto Winters,37,Adult
+10663,Keven,Holden,1976-09-19 00:00:00.000000,815,2,Keven Holden,49,Adult
+10219,Glayds,Garcia,1993-10-15 00:00:00.000000,408,2,Glayds Garcia,32,Young Adult
+10647,Jerica,Merrill,2000-08-28 00:00:00.000000,1055,2,Jerica Merrill,25,Young Adult
+10393,Bebe,Marquez,1981-03-20 00:00:00.000000,803,1,Bebe Marquez,44,Adult
+10316,Katia,Calhoun,1967-09-05 00:00:00.000000,114,1,Katia Calhoun,58,Adult
+10753,Kathyrn,Simmons,1999-09-26 00:00:00.000000,510,3,Kathyrn Simmons,26,Young Adult
+10287,Lorean,Mccarthy,1995-01-22 00:00:00.000000,883,3,Lorean Mccarthy,30,Young Adult
+10758,Reita,Knowles,1991-11-04 00:00:00.000000,591,1,Reita Knowles,34,Young Adult
+10934,Danika,Barton,1994-09-28 00:00:00.000000,370,3,Danika Barton,31,Young Adult
+10363,Cruz,Sampson,1997-07-13 00:00:00.000000,770,3,Cruz Sampson,28,Young Adult
+10745,Horace,David,1983-02-18 00:00:00.000000,997,3,Horace David,42,Adult
+10962,Jamar,Tyler,1992-08-12 00:00:00.000000,747,3,Jamar Tyler,33,Young Adult
+10412,Trudi,Torres,1987-12-18 00:00:00.000000,79,2,Trudi Torres,38,Adult
+10965,Aracelis,Hubbard,1978-11-03 00:00:00.000000,1049,3,Aracelis Hubbard,47,Adult
+10981,Gil,Rice,1985-01-03 00:00:00.000000,1127,2,Gil Rice,41,Adult
+10669,Unknow,Keith,1998-02-28 00:00:00.000000,715,1,Unknow Keith,27,Young Adult
+10159,Tenesha,Skinner,1960-08-10 00:00:00.000000,572,2,Tenesha Skinner,65,Senior
+10235,Alane,Payne,1972-10-03 00:00:00.000000,891,1,Alane Payne,53,Adult
+10982,Joella,Francis,1967-07-18 00:00:00.000000,413,1,Joella Francis,58,Adult
+10415,Lamont,Juarez,1997-04-08 00:00:00.000000,501,3,Lamont Juarez,28,Young Adult
+10589,Elias,Sherman,2026-03-09 15:01:42.854835,185,2,Elias Sherman,45,Adult
+10709,Cristobal,Copeland,1995-02-16 00:00:00.000000,475,3,Cristobal Copeland,30,Young Adult
+10920,Kaleigh,Wilkinson,1967-09-20 00:00:00.000000,906,3,Kaleigh Wilkinson,58,Adult
+10261,Stuart,Rogers,1973-03-17 00:00:00.000000,443,3,Stuart Rogers,52,Adult
+10263,Jame,Rodriguez,1963-07-01 00:00:00.000000,643,1,Jame Rodriguez,62,Senior
+10092,Clemente,Dawson,1992-07-16 00:00:00.000000,405,1,Clemente Dawson,33,Young Adult
+10278,Norberto,Duran,1991-05-09 00:00:00.000000,156,3,Norberto Duran,34,Young Adult
+10137,Allan,Meadows,1962-04-24 00:00:00.000000,148,2,Allan Meadows,63,Senior
+10936,Albert,Gay,1981-05-06 00:00:00.000000,665,1,Albert Gay,44,Adult
+10814,Sindy,Schultz,1978-08-01 00:00:00.000000,428,1,Sindy Schultz,47,Adult
+10951,Tarah,Rosa,1962-02-27 00:00:00.000000,331,2,Tarah Rosa,63,Senior
+10806,Justin,Hicks,1975-09-08 00:00:00.000000,454,2,Justin Hicks,50,Adult
+10388,Luther,Nelson,1988-03-02 00:00:00.000000,549,1,Luther Nelson,37,Adult
+10037,Anthony,Slater,1986-12-01 00:00:00.000000,661,1,Anthony Slater,39,Adult
+10414,Nga,Holt,1964-11-29 00:00:00.000000,133,3,Nga Holt,61,Senior
+10108,Keenan,WaTters,1997-05-11 00:00:00.000000,269,3,Keenan WaTters,28,Young Adult
+10111,Micha,Herrera,1993-10-09 00:00:00.000000,531,3,Micha Herrera,32,Young Adult
+11049,Vannessa,Manning,1967-06-07 00:00:00.000000,1093,1,Vannessa Manning,58,Adult
+10573,Johnny,Estes,1995-01-19 00:00:00.000000,774,3,Johnny Estes,30,Young Adult
+10333,Unknow,Rush,1973-07-17 00:00:00.000000,540,3,Unknow Rush,52,Adult
+11073,Beau,Williams,1994-02-15 00:00:00.000000,494,3,Beau Williams,31,Young Adult
+10079,Dave,Alvarez,1981-11-29 00:00:00.000000,452,2,Dave Alvarez,44,Adult
+10752,Dan,Mayo,1997-04-22 00:00:00.000000,974,3,Dan Mayo,28,Young Adult
+10059,David,Campbell,1981-05-09 00:00:00.000000,6,2,David Campbell,44,Adult
+10177,Nga,Kirby,1969-02-15 00:00:00.000000,430,3,Nga Kirby,56,Adult
+10052,Roseline,O'neill,1966-08-29 00:00:00.000000,863,3,Roseline O'neill,59,Adult
+11004,Tyler,Burt,1977-04-30 00:00:00.000000,898,1,Tyler Burt,48,Adult
+10498,Josiah,Russell,1967-05-10 00:00:00.000000,750,1,Josiah Russell,58,Adult
+10452,Cleotilde,Griffith,1962-08-03 00:00:00.000000,747,2,Cleotilde Griffith,63,Senior
+10460,Sherly,Spears,1985-11-18 00:00:00.000000,627,1,Sherly Spears,40,Adult
+10439,Larraine,Estes,1979-05-22 00:00:00.000000,798,1,Larraine Estes,46,Adult
+10448,Sana,Patrick,1984-02-03 00:00:00.000000,1073,1,Sana Patrick,41,Adult
+10931,Unknow,Gill,1965-05-27 00:00:00.000000,600,3,Unknow Gill,60,Adult
+10379,Blondell,Britt,1984-05-28 00:00:00.000000,683,2,Blondell Britt,41,Adult
+10657,Eddie,Hayes,1995-09-29 00:00:00.000000,1127,3,Eddie Hayes,30,Young Adult
+11041,Teodoro,unknow,1979-08-07 00:00:00.000000,433,2,Teodoro unknow,46,Adult
+10290,Gus,Holman,1966-12-02 00:00:00.000000,797,1,Gus Holman,59,Adult
+10464,Loyce,Prince,1991-08-03 00:00:00.000000,423,3,Loyce Prince,34,Young Adult
+10070,Augustus,Patrick,1988-04-17 00:00:00.000000,434,1,Augustus Patrick,37,Adult
+10413,Alejandrina,Church,1990-05-05 00:00:00.000000,149,1,Alejandrina Church,35,Young Adult
+10633,Cherryl,Stephens,1979-04-03 00:00:00.000000,571,3,Cherryl Stephens,46,Adult
+10515,Eloy,Chaney,,373,3,Eloy Chaney,45,Adult
+10782,Kimberli,Dunn,1963-12-28 00:00:00.000000,42,3,Kimberli Dunn,62,Senior
+10242,Jean,Richards,1981-09-23 00:00:00.000000,69,2,Jean Richards,44,Adult
+10221,Kasey,Berger,1961-12-03 00:00:00.000000,132,1,Kasey Berger,64,Senior
+10734,Melita,Leach,1981-10-26 00:00:00.000000,746,1,Melita Leach,44,Adult
+10928,Joshua,Hanson,1978-12-18 00:00:00.000000,695,1,Joshua Hanson,47,Adult
+10955,Allena,Sears,1971-01-25 00:00:00.000000,272,3,Allena Sears,54,Adult
+10085,Jeffrey,Willis,1993-06-04 00:00:00.000000,59,2,Jeffrey Willis,32,Young Adult
+10815,Eduardo,Keith,1963-10-06 00:00:00.000000,411,2,Eduardo Keith,62,Senior
+10277,Douglas,Schultz,1997-02-02 00:00:00.000000,87,3,Douglas Schultz,28,Young Adult
+10550,Sacha,Peters,1989-11-14 00:00:00.000000,692,3,Sacha Peters,36,Adult
+10767,Noah,Simpson,1981-10-21 00:00:00.000000,432,3,Noah Simpson,44,Adult
+10213,Jerrell,Morton,1998-06-29 00:00:00.000000,674,1,Jerrell Morton,27,Young Adult
+10002,Romeo,unknow,1985-03-30 00:00:00.000000,392,1,Romeo unknow,40,Adult
+10754,Lane,Rice,1967-10-07 00:00:00.000000,78,3,Lane Rice,58,Adult
+10275,Noma,Chang,1977-08-04 00:00:00.000000,748,2,Noma Chang,48,Adult
+10245,Harold,Pope,1965-01-01 00:00:00.000000,994,3,Harold Pope,61,Senior
+10230,Janita,Lucas,1967-09-09 00:00:00.000000,578,3,Janita Lucas,58,Adult
+10407,Mozell,Trujillo,1996-02-19 00:00:00.000000,210,2,Mozell Trujillo,29,Young Adult
+10514,Nevada,Justice,1986-09-12 00:00:00.000000,1018,1,Nevada Justice,39,Adult
+10989,Lindsay,Booker,1992-12-07 00:00:00.000000,334,2,Lindsay Booker,33,Young Adult
+11001,Inocencia,Flowers,1983-01-07 00:00:00.000000,747,1,Inocencia Flowers,43,Adult
+10892,Faustino,Ford,1975-10-31 00:00:00.000000,471,3,Faustino Ford,50,Adult
+10508,Jamee,Richmond,1961-05-24 00:00:00.000000,580,3,Jamee Richmond,64,Senior
+10303,Mora,Palmer,1979-02-01 00:00:00.000000,620,2,Mora Palmer,46,Adult
+10878,Douglas,Schwartz,1975-10-14 00:00:00.000000,109,2,Douglas Schwartz,50,Adult
+11047,Babara,Mclean,1961-11-19 00:00:00.000000,456,3,Babara Mclean,64,Senior
+10097,Kallie,Travis,1981-03-15 00:00:00.000000,649,3,Kallie Travis,44,Adult
+10980,Unknow,Tucker,1971-05-09 00:00:00.000000,423,2,Unknow Tucker,54,Adult
+10335,Brandon,Mayo,1963-10-14 00:00:00.000000,381,2,Brandon Mayo,62,Senior
+10795,Damion,Montgomery,1987-07-08 00:00:00.000000,950,1,Damion Montgomery,38,Adult
+10194,Malka,Pitts,1987-05-07 00:00:00.000000,1200,3,Malka Pitts,38,Adult
+10153,Duane,Haley,1983-09-05 00:00:00.000000,195,3,Duane Haley,42,Adult
+10074,Margorie,Wiley,1992-04-04 00:00:00.000000,222,3,Margorie Wiley,33,Young Adult
+10630,Jospeh,Hill,1964-07-23 00:00:00.000000,255,2,Jospeh Hill,61,Senior
+11094,Tai,Delaney,1981-12-04 00:00:00.000000,1168,1,Tai Delaney,44,Adult
+10126,Jere,Wynn,1981-07-28 00:00:00.000000,1170,1,Jere Wynn,44,Adult
+10771,Darron,Cardenas,1990-01-29 00:00:00.000000,499,2,Darron Cardenas,35,Young Adult
+10214,Jonie,Price,1986-10-28 00:00:00.000000,1103,3,Jonie Price,39,Adult
+10082,Nickole,Harvey,1980-07-25 00:00:00.000000,630,2,Nickole Harvey,45,Adult
+10977,Armando,Parks,1967-01-13 00:00:00.000000,769,1,Armando Parks,59,Adult
+10166,Alfred,Mcgee,1994-03-06 00:00:00.000000,467,3,Alfred Mcgee,31,Young Adult
+10158,Andre,Barron,1971-02-20 00:00:00.000000,149,3,Andre Barron,54,Adult
+10744,Chi,Jensen,1967-05-31 00:00:00.000000,782,2,Chi Jensen,58,Adult
+10286,Herbert,Stein,1970-03-07 00:00:00.000000,161,2,Herbert Stein,55,Adult
+10156,Albert,Gordon,1983-07-16 00:00:00.000000,608,1,Albert Gordon,42,Adult
+10662,Armand,Wallace,1963-03-19 00:00:00.000000,965,3,Armand Wallace,62,Senior
+10959,Larisa,Salas,1964-02-03 00:00:00.000000,160,3,Larisa Salas,61,Senior
+10058,Alexis,Goodwin,1964-12-12 00:00:00.000000,409,1,Alexis Goodwin,61,Senior
+11002,Bryan,unknow,,534,3,Bryan unknow,45,Adult
+11040,Arlette,Carpenter,1966-08-13 00:00:00.000000,826,2,Arlette Carpenter,59,Adult
+10308,Ricarda,Bond,1991-07-28 00:00:00.000000,712,3,Ricarda Bond,34,Young Adult
+10631,Eddy,Tran,1969-11-25 00:00:00.000000,906,2,Eddy Tran,56,Adult
+11016,Royce,Cook,1994-02-23 00:00:00.000000,15,3,Royce Cook,31,Young Adult
+10269,Raleigh,Price,1977-03-16 00:00:00.000000,1177,3,Raleigh Price,48,Adult
+10470,Joline,Simpson,1999-12-13 00:00:00.000000,422,3,Joline Simpson,26,Young Adult
+10189,Ula,Bupns,,603,3,Ula Bupns,45,Adult
+10954,Gregorio,Nolan,1977-09-30 00:00:00.000000,964,3,Gregorio Nolan,48,Adult
+10697,Paul,Munoz,1975-01-04 00:00:00.000000,1032,2,Paul Munoz,51,Adult
+10824,Margarito,Woodard,1979-04-26 00:00:00.000000,237,1,Margarito Woodard,46,Adult
+10377,Magaly,Mccullough,,333,2,Magaly Mccullough,45,Adult
+10325,Ted,Walton,1961-08-30 00:00:00.000000,499,2,Ted Walton,64,Senior
+10328,Laverna,Hernandez,1966-06-18 00:00:00.000000,619,3,Laverna Hernandez,59,Adult
+10254,Nubia,Kane,1986-08-20 00:00:00.000000,389,2,Nubia Kane,39,Adult
+10545,Marquitta,Velasquez,1975-09-01 00:00:00.000000,1053,2,Marquitta Velasquez,50,Adult
+10942,Viki,Dotson,1972-10-05 00:00:00.000000,785,1,Viki Dotson,53,Adult
+10690,Emerita,Villarreal,,59,3,Emerita Villarreal,45,Adult
+10485,Leana,Fitzgerald,1982-06-17 00:00:00.000000,61,1,Leana Fitzgerald,43,Adult
+10510,Suzi,Page,1994-08-30 00:00:00.000000,940,3,Suzi Page,31,Young Adult
+11051,Sherman,Macdonald,1966-10-09 00:00:00.000000,904,3,Sherman Macdonald,59,Adult
+10516,Keva,Mcneil,1989-11-30 00:00:00.000000,766,2,Keva Mcneil,36,Adult
+10979,Hermine,Mcmahon,1986-07-04 00:00:00.000000,1001,1,Hermine Mcmahon,39,Adult
+10343,Javier,Hurst,2000-12-22 00:00:00.000000,573,1,Javier Hurst,25,Young Adult
+10978,An,Gibbs,1971-11-13 00:00:00.000000,1115,1,An Gibbs,54,Adult
+10486,Ethelene,Skinner,1990-12-29 00:00:00.000000,385,3,Ethelene Skinner,35,Young Adult
+10570,Michale,Duffy,1966-09-11 00:00:00.000000,683,1,Michale Duffy,59,Adult
+10054,Shon,Farrell,1965-01-09 00:00:00.000000,871,3,Shon Farrell,61,Senior
+10654,Claribel,Clayton,1993-11-10 00:00:00.000000,466,1,Claribel Clayton,32,Young Adult
+10786,Pamella,Hernandez,1993-02-05 00:00:00.000000,1168,1,Pamella Hernandez,32,Young Adult
+10716,Mikaela,Weber,1980-03-04 00:00:00.000000,1015,2,Mikaela Weber,45,Adult
+10862,Royal,Burris,1999-12-06 00:00:00.000000,525,1,Royal Burris,26,Young Adult
+10031,Rozanne,Bradford,1977-11-19 00:00:00.000000,256,2,Rozanne Bradford,48,Adult
+10717,Jacelyn,Sloan,1988-09-08 00:00:00.000000,215,2,Jacelyn Sloan,37,Adult
+10705,Johna,Trujillo,2000-06-21 00:00:00.000000,536,3,Johna Trujillo,25,Young Adult
+10558,Xochitl,Sandoval,1992-01-23 00:00:00.000000,1185,2,Xochitl Sandoval,33,Young Adult
+10973,Shane,Burnett,1965-06-26 00:00:00.000000,937,3,Shane Burnett,60,Adult
+11018,Katherina,Woods,1980-11-14 00:00:00.000000,29,3,Katherina Woods,45,Adult
+10772,Mariko,Mcknight,1997-06-19 00:00:00.000000,626,3,Mariko Mcknight,28,Young Adult
+10932,Clorinda,Saunders,1975-12-16 00:00:00.000000,324,1,Clorinda Saunders,50,Adult
+10950,Kermit,Sherman,1996-06-12 00:00:00.000000,361,2,Kermit Sherman,29,Young Adult
+10314,Lynwood,Chambers,1972-07-09 00:00:00.000000,1165,2,Lynwood Chambers,53,Adult
+10880,Catherina,Cantu,1961-05-27 00:00:00.000000,393,3,Catherina Cantu,64,Senior
+10674,Lashaun,Love,1970-09-15 00:00:00.000000,656,3,Lashaun Love,55,Adult
+10022,Jorge,Todd,1960-03-17 00:00:00.000000,825,1,Jorge Todd,65,Senior
+10218,Garry,Walker,1974-09-05 00:00:00.000000,1102,1,Garry Walker,51,Adult
+10169,Delena,Mathews,1975-06-18 00:00:00.000000,280,2,Delena Mathews,50,Adult
+10192,Trey,Rivers,2000-03-21 00:00:00.000000,447,3,Trey Rivers,25,Young Adult
+10908,Deedra,Dudley,1969-11-29 00:00:00.000000,336,1,Deedra Dudley,56,Adult
+10634,Lekisha,Silva,1988-05-18 00:00:00.000000,1152,2,Lekisha Silva,37,Adult
+10851,Tyron,Workman,1977-07-10 00:00:00.000000,348,1,Tyron Workman,48,Adult
+10731,Shaneka,Stout,1977-01-28 00:00:00.000000,88,2,Shaneka Stout,48,Adult
+10375,Will,Daugherty,1978-10-20 00:00:00.000000,294,2,Will Daugherty,47,Adult
+10893,Roosevelt,Wilkinson,1995-05-10 00:00:00.000000,654,3,Roosevelt Wilkinson,30,Young Adult
+10348,Malisa,Mcneil,1972-02-07 00:00:00.000000,358,2,Malisa Mcneil,53,Adult
+10557,Loyd,Baird,1963-02-04 00:00:00.000000,47,2,Loyd Baird,62,Senior
+10797,Thomas,Rocha,,732,3,Thomas Rocha,45,Adult
+10948,Emeline,Levy,1976-02-13 00:00:00.000000,844,3,Emeline Levy,49,Adult
+10617,Jeannetta,Mercado,1983-07-04 00:00:00.000000,774,3,Jeannetta Mercado,42,Adult
+10884,Fredricka,Mercado,1993-01-24 00:00:00.000000,393,1,Fredricka Mercado,32,Young Adult
+10011,Vernon,Wade,1969-04-02 00:00:00.000000,282,2,Vernon Wade,56,Adult
+10749,Ayako,Sweet,1991-09-10 00:00:00.000000,1177,2,Ayako Sweet,34,Young Adult
+10210,Annamaria,Delaney,1986-04-01 00:00:00.000000,1101,1,Annamaria Delaney,39,Adult
+11044,Chang,Atkinson,1992-03-20 00:00:00.000000,566,1,Chang Atkinson,33,Young Adult
+10060,Teisha,Watson,1972-05-31 00:00:00.000000,61,3,Teisha Watson,53,Adult
+10608,Val,Lyons,1980-07-14 00:00:00.000000,261,1,Val Lyons,45,Adult
+11091,Hang,Henderson,1984-07-17 00:00:00.000000,540,3,Hang Henderson,41,Adult
+10184,Tinisha,Velez,1963-07-30 00:00:00.000000,774,2,Tinisha Velez,62,Senior
+10661,Marcelo,Mosley,1968-08-04 00:00:00.000000,161,2,Marcelo Mosley,57,Adult
+10768,Ling,Savage,1986-11-08 00:00:00.000000,777,2,Ling Savage,39,Adult
+10625,Laurice,Shannon,1983-09-19 00:00:00.000000,1134,1,Laurice Shannon,42,Adult
+10225,Britt,Hamilton,1973-07-09 00:00:00.000000,328,1,Britt Hamilton,52,Adult
+10186,Petrina,Buckner,1982-09-24 00:00:00.000000,742,2,Petrina Buckner,43,Adult
+10026,Long,Aguilar,1968-07-05 00:00:00.000000,746,2,Long Aguilar,57,Adult
+11015,Barrett,Wise,1969-10-03 00:00:00.000000,335,1,Barrett Wise,56,Adult
+10391,Cammy,Melton,1981-04-03 00:00:00.000000,916,1,Cammy Melton,44,Adult
+10787,Darrick,Adkins,1993-05-04 00:00:00.000000,477,2,Darrick Adkins,32,Young Adult
+10897,Yessenia,Charles,1975-09-01 00:00:00.000000,131,2,Yessenia Charles,50,Adult
+10612,Eli,Welch,1982-09-04 00:00:00.000000,356,3,Eli Welch,43,Adult
+10463,Carl,Rogers,1979-07-06 00:00:00.000000,1062,3,Carl Rogers,46,Adult
+10309,Jaymie,Harvey,1988-09-06 00:00:00.000000,859,1,Jaymie Harvey,37,Adult
+10958,Tawny,Holder,1967-01-13 00:00:00.000000,1061,2,Tawny Holder,59,Adult
+10946,Cleopatra,Rocha,1998-04-10 00:00:00.000000,66,2,Cleopatra Rocha,27,Young Adult
+10061,Mickey,Austin,1973-09-02 00:00:00.000000,349,1,Mickey Austin,52,Adult
+11096,Lenard,Banks,1972-02-06 00:00:00.000000,503,3,Lenard Banks,53,Adult
+10344,Weston,Benson,1974-04-01 00:00:00.000000,103,3,Weston Benson,51,Adult
+10012,Deedra,Keith,1970-08-28 00:00:00.000000,76,2,Deedra Keith,55,Adult
+10636,Buster,Peters,1980-03-18 00:00:00.000000,459,2,Buster Peters,45,Adult
+10710,Michel,Wall,,831,2,Michel Wall,45,Adult
+10728,Linn,Everett,1977-06-22 00:00:00.000000,957,3,Linn Everett,48,Adult
+10810,Mauro,Quinn,1993-09-10 00:00:00.000000,1143,2,Mauro Quinn,32,Young Adult
+10246,Carmelo,Moses,1996-05-09 00:00:00.000000,997,1,Carmelo Moses,29,Young Adult
+11072,Murray,Irwin,1999-07-25 00:00:00.000000,977,2,Murray Irwin,26,Young Adult
+10995,Edwardo,Kane,1973-09-05 00:00:00.000000,934,2,Edwardo Kane,52,Adult
+10780,Timothy,Barnett,2000-07-07 00:00:00.000000,1006,3,Timothy Barnett,25,Young Adult
+10288,Kaila,Woods,1978-04-18 00:00:00.000000,730,1,Kaila Woods,47,Adult
+10885,Delorse,Briggs,1972-06-10 00:00:00.000000,428,1,Delorse Briggs,53,Adult
+10055,Coletta,Wong,1990-05-07 00:00:00.000000,279,1,Coletta Wong,35,Young Adult
+10327,Lashawna,Medina,,869,3,Lashawna Medina,45,Adult
+11099,Mammie,Carr,1998-10-04 00:00:00.000000,156,1,Mammie Carr,27,Young Adult
+10895,Marya,Robertson,1995-10-15 00:00:00.000000,923,3,Marya Robertson,30,Young Adult
+10264,Sheldon,Koch,1971-12-08 00:00:00.000000,520,1,Sheldon Koch,54,Adult
+10015,Alonso,Huffman,1972-01-30 00:00:00.000000,829,2,Alonso Huffman,53,Adult
+10083,Ronald,Burks,1960-02-10 00:00:00.000000,244,1,Ronald Burks,65,Senior
+11013,Irwin,Lindsey,1997-10-14 00:00:00.000000,1032,3,Irwin Lindsey,28,Young Adult
+11084,Miki,Combs,1967-06-27 00:00:00.000000,308,3,Miki Combs,58,Adult
+10465,Sharika,Gegory,1987-11-12 00:00:00.000000,967,2,Sharika Gegory,38,Adult
+10398,Grover,Curtis,1997-08-24 00:00:00.000000,340,3,Grover Curtis,28,Young Adult
+10350,Scott,Dunlap,1991-09-02 00:00:00.000000,831,3,Scott Dunlap,34,Young Adult
+10357,Tyree,Rojas,1993-09-03 00:00:00.000000,330,2,Tyree Rojas,32,Young Adult
+10927,Clark,Stuart,1960-08-21 00:00:00.000000,229,2,Clark Stuart,65,Senior
+10323,Alaine,Russell,1964-10-31 00:00:00.000000,643,3,Alaine Russell,61,Senior
+10306,aanny,Cleveland,1991-12-06 00:00:00.000000,380,3,aanny Cleveland,34,Young Adult
+10935,Mel,Humphrey,1971-08-08 00:00:00.000000,616,3,Mel Humphrey,54,Adult
+10887,Samuel,Frost,1963-10-01 00:00:00.000000,822,3,Samuel Frost,62,Senior
+10260,Celinda,Dillon,1991-01-06 00:00:00.000000,1071,3,Celinda Dillon,35,Young Adult
+10543,Faustina,Irwin,1979-06-10 00:00:00.000000,966,1,Faustina Irwin,46,Adult
+10721,Kit,Bowman,2000-02-13 00:00:00.000000,361,2,Kit Bowman,25,Young Adult
+10310,Sunday,Shannon,1980-05-25 00:00:00.000000,210,3,Sunday Shannon,45,Adult
+10637,Oswaldo,Pruitt,1988-01-21 00:00:00.000000,871,1,Oswaldo Pruitt,37,Adult
+10521,Sandy,Mayer,1994-08-17 00:00:00.000000,1032,2,Sandy Mayer,31,Young Adult
+10035,Dierdre,Bird,1962-04-10 00:00:00.000000,965,3,Dierdre Bird,63,Senior
+10711,Shona,Snow,1965-12-08 00:00:00.000000,307,1,Shona Snow,60,Adult
+10016,Jarvis,Ratliff,1991-01-10 00:00:00.000000,412,1,Jarvis Ratliff,35,Young Adult
+10873,Mika,Young,1976-10-16 00:00:00.000000,838,2,Mika Young,49,Adult
+10157,Soo,Frazier,1966-07-23 00:00:00.000000,1099,2,Soo Frazier,59,Adult
+10146,Armando,Guzman,1982-08-13 00:00:00.000000,830,1,Armando Guzman,43,Adult
+10501,Galina,Mathis,1988-11-04 00:00:00.000000,1061,1,Galina Mathis,37,Adult
+10750,Willis,Haney,,169,1,Willis Haney,45,Adult
+10289,Brice,Lowe,1989-02-06 00:00:00.000000,951,3,Brice Lowe,36,Adult
+10115,Dione,Avila,1981-08-11 00:00:00.000000,233,1,Dione Avila,44,Adult
+10919,Tiffiny,Dunn,1998-08-02 00:00:00.000000,833,2,Tiffiny Dunn,27,Young Adult
+10528,Joannie,Knight,1996-07-13 00:00:00.000000,475,1,Joannie Knight,29,Young Adult
+10930,Sal,Ingram,1970-03-31 00:00:00.000000,698,3,Sal Ingram,55,Adult
+10147,Vincenzo,Snyder,1996-04-21 00:00:00.000000,717,2,Vincenzo Snyder,29,Young Adult
+10591,Alonzo,Miller,1975-08-11 00:00:00.000000,788,2,Alonzo Miller,50,Adult
+10212,Elwood,Rogers,1984-02-29 00:00:00.000000,589,1,Elwood Rogers,41,Adult
+10967,Unknow,Benton,1999-02-27 00:00:00.000000,820,2,Unknow Benton,26,Young Adult
+10762,Rocco,Moses,1981-06-09 00:00:00.000000,719,3,Rocco Moses,44,Adult
+11017,Mitchel,Cook,1978-09-13 00:00:00.000000,1088,3,Mitchel Cook,47,Adult
+10258,Francis,Mitchell,2000-01-29 00:00:00.000000,958,1,Francis Mitchell,25,Young Adult
+10438,Calandra,Branch,2000-06-12 00:00:00.000000,867,3,Calandra Branch,25,Young Adult
+10185,Neely,Barron,1988-08-09 00:00:00.000000,853,3,Neely Barron,37,Adult
+10291,Kareem,Peterson,1989-04-18 00:00:00.000000,713,3,Kareem Peterson,36,Adult
+10352,Cher,Cooke,1977-09-10 00:00:00.000000,38,2,Cher Cooke,48,Adult
+10386,Brendan,Reid,2000-03-22 00:00:00.000000,1005,1,Brendan Reid,25,Young Adult
+10324,Burma,Roy,1966-07-27 00:00:00.000000,1172,2,Burma Roy,59,Adult
+10872,Lucilla,Browning,1989-04-27 00:00:00.000000,684,1,Lucilla Browning,36,Adult
+10489,Joan,Aguirre,1961-04-11 00:00:00.000000,200,1,Joan Aguirre,64,Senior
+10374,Leo,Burke,2026-07-06 15:01:42.854835,775,1,Leo Burke,45,Adult
+10441,Brendan,Bridges,1990-08-17 00:00:00.000000,227,3,Brendan Bridges,35,Young Adult
+11090,Codi,Nunez,1982-02-24 00:00:00.000000,867,2,Codi Nunez,43,Adult
+10757,Danae,Shannon,1964-11-21 00:00:00.000000,208,1,Danae Shannon,61,Senior
+10586,Troy,Hatfield,1976-11-02 00:00:00.000000,1011,2,Troy Hatfield,49,Adult
+11080,Sang,Bailey,1986-10-26 00:00:00.000000,216,3,Sang Bailey,39,Adult
+10132,Jerrell,Buckley,1986-03-19 00:00:00.000000,790,1,Jerrell Buckley,39,Adult
+10804,Arden,Hebert,1987-06-16 00:00:00.000000,477,2,Arden Hebert,38,Adult
+10845,Rosy,Price,1962-04-04 00:00:00.000000,435,2,Rosy Price,63,Senior
+10835,Marketta,Bush,1995-10-01 00:00:00.000000,1087,1,Marketta Bush,30,Young Adult
+10645,Lavonia,Blankenship,1992-10-29 00:00:00.000000,816,1,Lavonia Blankenship,33,Young Adult
+10403,Shakita,House,1986-07-14 00:00:00.000000,1113,1,Shakita House,39,Adult
+10629,Hector,Austin,1984-03-07 00:00:00.000000,346,2,Hector Austin,41,Adult
+10618,Sonny,Sellers,1976-02-21 00:00:00.000000,746,2,Sonny Sellers,49,Adult
+10751,Kory,Collins,1961-09-05 00:00:00.000000,6,3,Kory Collins,64,Senior
+10378,Maryetta,York,1977-03-13 00:00:00.000000,542,1,Maryetta York,48,Adult
+10996,Fausto,Aguirre,1984-03-27 00:00:00.000000,453,1,Fausto Aguirre,41,Adult
+10366,Burma,Wells,1993-11-22 00:00:00.000000,93,3,Burma Wells,32,Young Adult
+10646,Hedy,Knapp,1990-05-28 00:00:00.000000,997,3,Hedy Knapp,35,Young Adult
+10807,Theresia,Valenzuela,1984-12-10 00:00:00.000000,263,1,Theresia Valenzuela,41,Adult
+10883,Tijuana,Lynn,1984-09-03 00:00:00.000000,982,3,Tijuana Lynn,41,Adult
+10050,Matthew,Love,1985-07-12 00:00:00.000000,638,2,Matthew Love,40,Adult
+10051,Georgiann,Robinson,1962-02-05 00:00:00.000000,974,2,Georgiann Robinson,63,Senior
+10766,Anisha,Delacruz,1969-10-09 00:00:00.000000,91,3,Anisha Delacruz,56,Adult
+10614,Daron,Huffman,1970-03-25 00:00:00.000000,1185,2,Daron Huffman,55,Adult
+10370,Austin,Pate,1966-11-01 00:00:00.000000,1087,3,Austin Pate,59,Adult
+10312,Amira,Keith,1962-03-25 00:00:00.000000,754,2,Amira Keith,63,Senior
+10635,Carter,Vasquez,1988-03-21 00:00:00.000000,324,1,Carter Vasquez,37,Adult
+10008,Gregg,Stephens,1996-05-17 00:00:00.000000,597,1,Gregg Stephens,29,Young Adult
+10271,Elvis,Conrad,1987-05-25 00:00:00.000000,233,3,Elvis Conrad,38,Adult
+10839,Herta,Roberson,1974-12-25 00:00:00.000000,714,3,Herta Roberson,51,Adult
+10774,Lenna,Workman,1987-12-29 00:00:00.000000,550,1,Lenna Workman,38,Adult
+10207,Shirley,Palmer,1988-02-03 00:00:00.000000,474,2,Shirley Palmer,37,Adult
+10497,Dexter,Wilkins,1982-01-30 00:00:00.000000,1016,2,Dexter Wilkins,43,Adult
+10461,Norah,Duncan,1991-09-10 00:00:00.000000,640,3,Norah Duncan,34,Young Adult
+10471,Merrilee,Contreras,1984-11-28 00:00:00.000000,212,1,Merrilee Contreras,41,Adult
+10665,Jewell,Ballard,1987-04-26 00:00:00.000000,767,1,Jewell Ballard,38,Adult
+10733,Keith,Ferguson,1967-07-11 00:00:00.000000,310,3,Keith Ferguson,58,Adult
+10913,Barrett,Brown,1965-08-24 00:00:00.000000,902,2,Barrett Brown,60,Adult
+10300,Ivory,Patterson,1970-07-04 00:00:00.000000,927,2,Ivory Patterson,55,Adult
+10354,Brian,Holcomb,1992-02-21 00:00:00.000000,529,3,Brian Holcomb,33,Young Adult
+11010,Elliott,Moran,1969-03-20 00:00:00.000000,616,1,Elliott Moran,56,Adult
+10649,Lakeesha,Patton,1990-06-25 00:00:00.000000,1151,2,Lakeesha Patton,35,Young Adult
+10274,Tonette,Montgomery,1988-05-31 00:00:00.000000,581,2,Tonette Montgomery,37,Adult
+10397,Micah,Estrada,1961-02-22 00:00:00.000000,63,2,Micah Estrada,64,Senior
+10747,Aldo,Mann,1975-05-23 00:00:00.000000,608,3,Aldo Mann,50,Adult
+10103,Elza,Whitehead,1965-03-18 00:00:00.000000,229,3,Elza Whitehead,60,Adult
+10078,Lisbeth,Townsend,1977-12-28 00:00:00.000000,304,1,Lisbeth Townsend,48,Adult
+10356,Laveta,Livingston,1977-04-26 00:00:00.000000,424,2,Laveta Livingston,48,Adult
+10820,Bennett,Moody,1982-09-25 00:00:00.000000,545,3,Bennett Moody,43,Adult
+10569,Madalyn,Perkins,2025-10-29 15:01:42.854835,64,1,Madalyn Perkins,0,Minor
+10940,Minna,Mccall,1964-05-13 00:00:00.000000,1208,2,Minna Mccall,61,Senior
+11022,Gaston,Reed,1993-10-26 00:00:00.000000,982,3,Gaston Reed,32,Young Adult
+10201,Kizzie,Dyer,1978-06-11 00:00:00.000000,511,2,Kizzie Dyer,47,Adult
+10110,Teodora,Ellis,1976-06-25 00:00:00.000000,1130,2,Teodora Ellis,49,Adult
+10746,Giovanni,Jarvis,1995-03-22 00:00:00.000000,48,3,Giovanni Jarvis,30,Young Adult
+10562,Renetta,Deleon,,313,3,Renetta Deleon,45,Adult
+10582,Milton,Powell,1964-12-19 00:00:00.000000,934,1,Milton Powell,61,Senior
+10600,Genevive,Knapp,1990-05-04 00:00:00.000000,1106,1,Genevive Knapp,35,Young Adult
+10062,Antonina,Barber,1993-04-01 00:00:00.000000,996,2,Antonina Barber,32,Young Adult
+10174,Mathew,Chandler,1985-07-23 00:00:00.000000,32,3,Mathew Chandler,40,Adult
+10047,Lucius,Marks,1974-10-13 00:00:00.000000,601,1,Lucius Marks,51,Adult
+10065,Shea,Park,1969-01-17 00:00:00.000000,153,3,Shea Park,57,Adult
+10833,Ignacio,Curtis,1985-11-04 00:00:00.000000,202,3,Ignacio Curtis,40,Adult
+10089,Barrett,Fischer,1987-11-29 00:00:00.000000,31,3,Barrett Fischer,38,Adult
+10638,Tommy,Holland,1963-05-02 00:00:00.000000,902,2,Tommy Holland,62,Senior
+10585,Lashaunda,2aller,1976-03-27 00:00:00.000000,573,2,Lashaunda 2aller,49,Adult
+11050,Sharee,Golden,1991-11-02 00:00:00.000000,108,1,Sharee Golden,34,Young Adult
+10029,Maile,Harper,1966-08-01 00:00:00.000000,989,2,Maile Harper,59,Adult
+10255,Raleigh,Randolph,1966-11-06 00:00:00.000000,839,1,Raleigh Randolph,59,Adult
+10336,Rana,Lee,1967-01-12 00:00:00.000000,240,2,Rana Lee,59,Adult
+10802,Necole,Rich,1984-04-11 00:00:00.000000,708,3,Necole Rich,41,Adult
+10339,Andrea,Park,1994-04-20 00:00:00.000000,934,2,Andrea Park,31,Young Adult
+10729,CarCy,Nichols,,878,3,CarCy Nichols,45,Adult
+10602,Kristofer,Anderson,1979-11-12 00:00:00.000000,1138,2,Kristofer Anderson,46,Adult
+10098,Bobbie,Underwood,1970-11-01 00:00:00.000000,976,1,Bobbie Underwood,55,Adult
+10476,Ruben,Graves,1961-03-22 00:00:00.000000,471,2,Ruben Graves,64,Senior
+10273,Reuben,Donovan,1978-11-20 00:00:00.000000,1178,2,Reuben Donovan,47,Adult
+10726,Ernest,Gibbs,1990-06-04 00:00:00.000000,657,3,Ernest Gibbs,35,Young Adult
+11088,Anjanette,Harper,1973-09-22 00:00:00.000000,931,3,Anjanette Harper,52,Adult
+10530,Louanne,Crosby,1969-09-27 00:00:00.000000,425,2,Louanne Crosby,56,Adult
+10698,Darron,Montgomery,1961-03-27 00:00:00.000000,869,2,Darron Montgomery,64,Senior
+10644,Kasi,Frazier,1999-10-27 00:00:00.000000,575,3,Kasi Frazier,26,Young Adult
+10975,Les,Juarez,1992-07-18 00:00:00.000000,1056,2,Les Juarez,33,Young Adult
+10330,Joya,Dotson,1995-10-01 00:00:00.000000,1033,2,Joya Dotson,30,Young Adult
+10831,Tyler,Bean,1981-04-23 00:00:00.000000,110,2,Tyler Bean,44,Adult
+11085,Rayford,May,1985-07-14 00:00:00.000000,1035,1,Rayford May,40,Adult
+10322,Alaine,Knox,1998-09-01 00:00:00.000000,530,1,Alaine Knox,27,Young Adult
+11038,Jacquelynn,Cobb,1984-09-04 00:00:00.000000,862,2,Jacquelynn Cobb,41,Adult
+10034,Kimbery,Sherman,1980-02-24 00:00:00.000000,1056,2,Kimbery Sherman,45,Adult
+10442,Quinn,Herman,1984-05-07 00:00:00.000000,497,1,Quinn Herman,41,Adult
+10215,Eugenio,Peters,2026-01-07 15:01:42.854835,582,3,Eugenio Peters,0,Minor
+10994,Chang,Delgado,1962-10-23 00:00:00.000000,392,2,Chang Delgado,63,Senior
+10224,Kandra,Harmon,1966-07-31 00:00:00.000000,533,1,Kandra Harmon,59,Adult
+10619,Solomon,Vasquez,1973-11-24 00:00:00.000000,1134,1,Solomon Vasquez,52,Adult
+10518,Apolonia,Prince,1981-03-26 00:00:00.000000,476,3,Apolonia Prince,44,Adult
+10620,Grisel,Wallace,1978-04-09 00:00:00.000000,288,3,Grisel Wallace,47,Adult
+10087,Drew,Moran,1989-10-08 00:00:00.000000,642,2,Drew Moran,36,Adult
+10944,Annika,Beard,1961-11-12 00:00:00.000000,910,3,Annika Beard,64,Senior
+10945,Cleveland,Valenzuela,1985-09-21 00:00:00.000000,1050,1,Cleveland Valenzuela,40,Adult
+10947,Eloy,Baldwin,1988-01-16 00:00:00.000000,178,1,Eloy Baldwin,38,Adult
+11042,Emery,Lindsey,1965-05-23 00:00:00.000000,1161,3,Emery Lindsey,60,Adult
+11020,Yan,Maddox,,1181,3,Yan Maddox,45,Adult
+10540,Taina,Camacho,,362,2,Taina Camacho,45,Adult
+10788,Sherly,Meyer,1966-08-10 00:00:00.000000,1208,2,Sherly Meyer,59,Adult
+10096,Paris,Gomez,1988-07-31 00:00:00.000000,860,3,Paris Gomez,37,Adult
+10916,Nery,Harding,,899,3,Nery Harding,45,Adult
+10109,Isidro,Wells,1978-06-23 00:00:00.000000,411,2,Isidro Wells,47,Adult
+10345,Otha,Hurley,1991-08-18 00:00:00.000000,799,2,Otha Hurley,34,Young Adult
+10228,Christian,Guerra,1963-07-05 00:00:00.000000,16,2,Christian Guerra,62,Senior
+11014,Fermin,Ashley,1960-01-30 00:00:00.000000,55,1,Fermin Ashley,65,Senior
+10924,Johnette,Shannon,1960-05-25 00:00:00.000000,868,3,Johnette Shannon,65,Senior
+10396,Jessia,Woods,1998-11-08 00:00:00.000000,774,3,Jessia Woods,27,Young Adult
+10691,Tamekia,Forbes,1966-04-08 00:00:00.000000,792,3,Tamekia Forbes,59,Adult
+10456,Heath,Owens,1970-11-08 00:00:00.000000,235,2,Heath Owens,55,Adult
+10952,Tarah,Meadows,1979-04-15 00:00:00.000000,1164,3,Tarah Meadows,46,Adult
+10808,Karine,Pacheco,1960-02-13 00:00:00.000000,188,2,Karine Pacheco,65,Senior
+10191,Duncan,Pearson,1994-07-10 00:00:00.000000,310,3,Duncan Pearson,31,Young Adult
+10178,Isis,Hart,,530,1,Isis Hart,45,Adult
+10599,Leigh,Avery,,1121,2,Leigh Avery,45,Adult
+10084,Anibal,Andrews,1961-12-02 00:00:00.000000,680,2,Anibal Andrews,64,Senior
+10678,Gary,Chase,1998-01-19 00:00:00.000000,236,1,Gary Chase,27,Young Adult
+10272,Vern,Haley,1974-04-03 00:00:00.000000,29,3,Vern Haley,51,Adult
+10129,Jere,Bridges,1982-08-30 00:00:00.000000,210,2,Jere Bridges,43,Adult
+10923,Hank,Wong,1977-03-11 00:00:00.000000,983,3,Hank Wong,48,Adult
+11057,Herb,Ryan,1971-09-12 00:00:00.000000,952,3,Herb Ryan,54,Adult
+10459,Trinity,Mcintyre,1987-10-20 00:00:00.000000,984,3,Trinity Mcintyre,38,Adult
+10423,Grover,Hansen,1971-09-12 00:00:00.000000,991,3,Grover Hansen,54,Adult
+10519,Kera,Larsen,1991-09-24 00:00:00.000000,313,1,Kera Larsen,34,Young Adult
+10220,Layla,Pate,1963-08-27 00:00:00.000000,364,2,Layla Pate,62,Senior
+10769,Johnie,Pate,1985-01-26 00:00:00.000000,215,3,Johnie Pate,40,Adult
+10383,Zandra,Davenport,1985-05-21 00:00:00.000000,1042,1,Zandra Davenport,40,Adult
+10237,Woodrow,Bowman,1977-06-21 00:00:00.000000,1150,2,Woodrow Bowman,48,Adult
+10917,Desmond,Davidson,1967-10-07 00:00:00.000000,250,3,Desmond Davidson,58,Adult
+10033,Tandy,Schwartz,1965-03-21 00:00:00.000000,464,1,Tandy Schwartz,60,Adult
+10997,Mila,Espinoza,1961-05-05 00:00:00.000000,206,3,Mila Espinoza,64,Senior
+10493,Francis,Dean,1992-09-22 00:00:00.000000,261,3,Francis Dean,33,Young Adult
+10232,Lexie,Burns,1993-05-05 00:00:00.000000,999,2,Lexie Burns,32,Young Adult
+11045,Sherill,Spears,1998-01-06 00:00:00.000000,962,3,Sherill Spears,28,Young Adult
+10032,Domonique,Davis,1987-03-15 00:00:00.000000,887,1,Domonique Davis,38,Adult
+10555,Sueann,White,,489,1,Sueann White,45,Adult
+10172,Jacquelynn,Gates,1968-06-01 00:00:00.000000,382,3,Jacquelynn Gates,57,Adult
+10685,Florentina,PEte,1987-04-25 00:00:00.000000,330,3,Florentina PEte,38,Adult
+10028,Arica,Burris,1960-01-30 00:00:00.000000,362,3,Arica Burris,65,Senior
+10577,Terrence,Richmond,1965-06-13 00:00:00.000000,943,3,Terrence Richmond,60,Adult
+10918,Jacelyn,Middleton,1992-01-08 00:00:00.000000,405,1,Jacelyn Middleton,34,Young Adult
+10117,Jaime,Austin,1987-09-24 00:00:00.000000,978,3,Jaime Austin,38,Adult
+10187,Odelia,Wright,1976-03-24 00:00:00.000000,776,1,Odelia Wright,49,Adult
+10642,Garland,Farmer,1985-06-16 00:00:00.000000,500,2,Garland Farmer,40,Adult
+10597,Robin,O'connor,1973-10-16 00:00:00.000000,641,1,Robin O'connor,52,Adult
+10971,Bernard,Acosta,1997-05-27 00:00:00.000000,1007,3,Bernard Acosta,28,Young Adult
+10664,Julian,Vazquez,1986-12-12 00:00:00.000000,574,1,Julian Vazquez,39,Adult
+10385,Unknow,Scott,1993-06-22 00:00:00.000000,485,1,Unknow Scott,32,Young Adult
+10427,Lino,Mcconnell,1972-03-21 00:00:00.000000,594,3,Lino Mcconnell,53,Adult
+10458,Belkis,Trevino,1994-05-13 00:00:00.000000,832,2,Belkis Trevino,31,Young Adult
+10251,Wilmer,Rios,1970-04-11 00:00:00.000000,772,3,Wilmer Rios,55,Adult
+10064,Clelia,Blackwell,1971-12-24 00:00:00.000000,47,2,Clelia Blackwell,54,Adult
+10009,Clark,unknow,1999-09-07 00:00:00.000000,728,2,Clark unknow,26,Young Adult
+10836,Avery,Gould,1965-03-10 00:00:00.000000,139,2,Avery Gould,60,Adult
+10490,Jackie,Norman,1972-01-04 00:00:00.000000,718,2,Jackie Norman,54,Adult
+10313,Vito,Baxter,1971-10-06 00:00:00.000000,770,3,Vito Baxter,54,Adult
+10990,Sang,Carr,1982-08-06 00:00:00.000000,282,3,Sang Carr,43,Adult
+10805,Hal,unknow,1982-04-25 00:00:00.000000,1057,2,Hal unknow,43,Adult
+10985,Meda,Dunn,1967-12-24 00:00:00.000000,866,1,Meda Dunn,58,Adult
+10053,Antonio,Bullock,1997-05-16 00:00:00.000000,847,3,Antonio Bullock,28,Young Adult
+10279,Tiny,Garcia,1985-10-13 00:00:00.000000,1208,3,Tiny Garcia,40,Adult
+10419,Hollis,Martinez,1969-04-15 00:00:00.000000,180,1,Hollis Martinez,56,Adult
+10342,Jerrod,Lamb,1980-08-09 00:00:00.000000,892,1,Jerrod Lamb,45,Adult
+10484,Theresia,Jefferson,1962-09-24 00:00:00.000000,496,2,Theresia Jefferson,63,Senior
+10167,Gaynelle,Herman,1967-09-23 00:00:00.000000,1029,3,Gaynelle Herman,58,Adult
+10593,Beckie,Simon,1988-07-29 00:00:00.000000,401,1,Beckie Simon,37,Adult
+10704,Katheleen,Cooley,1960-04-22 00:00:00.000000,629,2,Katheleen Cooley,65,Senior
+10259,Rossie,Blair,1998-11-05 00:00:00.000000,930,3,Rossie Blair,27,Young Adult
+10443,Unknow,unknow,1972-06-09 00:00:00.000000,944,2,Unknow unknow,53,Adult
+10475,Shea,Rosales,1983-08-16 00:00:00.000000,1153,3,Shea Rosales,42,Adult
+10906,Lindsay,Contreras,1997-12-24 00:00:00.000000,154,3,Lindsay Contreras,28,Young Adult
+11035,Bo,Le,1983-10-19 00:00:00.000000,57,2,Bo Le,42,Adult
+10532,Branden,Floyd,2026-03-29 15:01:42.854835,1077,2,Branden Floyd,45,Adult
+10960,Cecila,Wheeler,1966-01-12 00:00:00.000000,400,3,Cecila Wheeler,60,Adult
+10784,Prince,Hamilton,1963-10-09 00:00:00.000000,703,3,Prince Hamilton,62,Senior
+10565,Gertrud,Brown,1993-10-12 00:00:00.000000,828,3,Gertrud Brown,32,Young Adult
+10243,Kirby,Molina,1969-03-15 00:00:00.000000,328,3,Kirby Molina,56,Adult
+10863,China,Farrell,1960-09-21 00:00:00.000000,972,3,China Farrell,65,Senior
+10381,Rhona,Benson,1961-11-16 00:00:00.000000,1032,2,Rhona Benson,64,Senior
+10090,Drew,Hoffman,1966-10-10 00:00:00.000000,925,1,Drew Hoffman,59,Adult
+10660,Wilhemina,Mckinney,1968-12-17 00:00:00.000000,671,1,Wilhemina Mckinney,57,Adult
+10652,Rory,Burris,1988-06-24 00:00:00.000000,836,3,Rory Burris,37,Adult
+10722,Van,Rodriquez,1967-09-16 00:00:00.000000,5,3,Van Rodriquez,58,Adult
+11069,Shani,Klein,1971-02-14 00:00:00.000000,585,3,Shani Klein,54,Adult
+10898,Isreal,Hull,1975-01-27 00:00:00.000000,36,1,Isreal Hull,50,Adult
+10454,Mickie,Mercado,1998-12-05 00:00:00.000000,1017,3,Mickie Mercado,27,Young Adult
+10404,Delmer,Fernandez,1979-12-10 00:00:00.000000,559,3,Delmer Fernandez,46,Adult
+10738,Shaquita,Pruitt,1994-01-10 00:00:00.000000,884,2,Shaquita Pruitt,32,Young Adult
+10499,Chante,Navarro,1989-08-27 00:00:00.000000,210,3,Chante Navarro,36,Adult
+10693,Frank,Campos,1979-03-25 00:00:00.000000,96,2,Frank Campos,46,Adult
+10507,Latoria,Mendez,1979-03-30 00:00:00.000000,247,1,Latoria Mendez,46,Adult
+10094,Nida,Wright,1974-02-20 00:00:00.000000,1090,2,Nida Wright,51,Adult
+10812,Latashia,Higgins,1987-03-27 00:00:00.000000,56,3,Latashia Higgins,38,Adult
+10229,Myles,Watson,1971-05-18 00:00:00.000000,545,3,Myles Watson,54,Adult
+10483,Cassey,Roach,1997-05-13 00:00:00.000000,543,3,Cassey Roach,28,Young Adult
+10077,Dario,Campbell,1964-04-16 00:00:00.000000,12,2,Dario Campbell,61,Senior
+10541,Zulema,Powell,1967-03-24 00:00:00.000000,207,2,Zulema Powell,58,Adult
+10737,Zackary,Warner,1972-11-10 00:00:00.000000,905,1,Zackary Warner,53,Adult
+10520,Adah,Grimes,1992-11-17 00:00:00.000000,408,1,Adah Grimes,33,Young Adult
+11060,Damion,Mueller,1967-10-13 00:00:00.000000,998,1,Damion Mueller,58,Adult
+10304,Joshua,Cline,2000-03-16 00:00:00.000000,878,1,Joshua Cline,25,Young Adult
+10953,Shane,Silva,1973-12-12 00:00:00.000000,197,3,Shane Silva,52,Adult
+11078,Somer,Gibson,2000-06-12 00:00:00.000000,945,2,Somer Gibson,25,Young Adult
+10956,Elanor,Lloyd,1989-09-22 00:00:00.000000,22,2,Elanor Lloyd,36,Adult
+10390,Bud,Reid,1993-01-21 00:00:00.000000,1197,3,Bud Reid,32,Young Adult
+10154,Unknow,Waters,1973-09-07 00:00:00.000000,699,3,Unknow Waters,52,Adult
+10622,Tambra,PresVon,1990-12-10 00:00:00.000000,283,2,Tambra PresVon,35,Young Adult
+10347,Randell,Castaneda,1998-06-07 00:00:00.000000,280,2,Randell Castaneda,27,Young Adult
+10775,Evita,Rutledge,1983-08-26 00:00:00.000000,1169,2,Evita Rutledge,42,Adult
+10030,Sulema,Ross,1995-10-09 00:00:00.000000,719,3,Sulema Ross,30,Young Adult
+10122,Felipe,Munoz,1988-11-27 00:00:00.000000,975,3,Felipe Munoz,37,Adult
+10211,Cordell,Cooley,2000-02-12 00:00:00.000000,1136,3,Cordell Cooley,25,Young Adult
+10036,Garland,Berry,1985-06-19 00:00:00.000000,154,3,Garland Berry,40,Adult
+10743,Seymour,Malone,1990-12-05 00:00:00.000000,38,1,Seymour Malone,35,Young Adult
+10561,Magen,Hansen,1962-09-18 00:00:00.000000,251,3,Magen Hansen,63,Senior
+10584,Kimiko,Griffith,1961-06-22 00:00:00.000000,91,3,Kimiko Griffith,64,Senior
+10281,Marylyn,Nichols,1963-09-05 00:00:00.000000,269,2,Marylyn Nichols,62,Senior
+11095,Angelena,Collier,1986-02-06 00:00:00.000000,269,1,Angelena Collier,39,Adult
+10666,Geraldo,Dale,1998-06-15 00:00:00.000000,880,3,Geraldo Dale,27,Young Adult
+10594,Joaquin,Riddle,1972-11-05 00:00:00.000000,604,3,Joaquin Riddle,53,Adult
+10925,Minh,Horne,1966-10-31 00:00:00.000000,1110,2,Minh Horne,59,Adult
+10858,Sherwood,Finch,1999-12-25 00:00:00.000000,116,1,Sherwood Finch,26,Young Adult
+10455,Verlie,Garrett,1965-12-28 00:00:00.000000,276,2,Verlie Garrett,60,Adult
+10859,Apolonia,Valencia,1970-08-04 00:00:00.000000,395,1,Apolonia Valencia,55,Adult
+10042,Lynn,Reynolds,1962-04-24 00:00:00.000000,281,2,Lynn Reynolds,63,Senior
+10301,Alexander,Buchanan,1967-03-16 00:00:00.000000,803,2,Alexander Buchanan,58,Adult
+10800,Rosendo,Roman,1980-10-11 00:00:00.000000,1067,1,Rosendo Roman,45,Adult
+10847,Denyse,Snider,1989-10-22 00:00:00.000000,461,2,Denyse Snider,36,Adult
+10688,Man,Jenkins,1981-01-27 00:00:00.000000,1129,1,Man Jenkins,44,Adult
+10504,Victor,Barry,1960-03-14 00:00:00.000000,928,1,Victor Barry,65,Senior
+10292,Cyrus,Garcia,1978-04-22 00:00:00.000000,750,1,Cyrus Garcia,47,Adult
+10081,Sherman,Buck,1998-11-01 00:00:00.000000,292,3,Sherman Buck,27,Young Adult
+10610,Olen,Compton,1987-12-27 00:00:00.000000,289,3,Olen Compton,38,Adult
+10846,Long,Parsons,1969-09-01 00:00:00.000000,303,3,Long Parsons,56,Adult
+10999,Von,Villarreal,1963-09-23 00:00:00.000000,304,1,Von Villarreal,62,Senior
+10358,Jacquelyne,Bowman,1977-10-15 00:00:00.000000,974,1,Jacquelyne Bowman,48,Adult
+10891,Bryanna,Hendrix,1987-04-26 00:00:00.000000,1077,3,Bryanna Hendrix,38,Adult
+10295,Santo,Pugh,2000-11-14 00:00:00.000000,250,3,Santo Pugh,25,Young Adult
+10712,Boyd,Reyes,1987-03-07 00:00:00.000000,889,2,Boyd Reyes,38,Adult
+10027,Dario,Fletcher,1983-01-05 00:00:00.000000,1117,1,Dario Fletcher,43,Adult
+10659,Theressa,Bailey,,812,3,Theressa Bailey,45,Adult
+10392,Christena,CaMrillo,1967-10-10 00:00:00.000000,1025,2,Christena CaMrillo,58,Adult
+10706,Shawnda,Summers,1986-04-26 00:00:00.000000,231,3,Shawnda Summers,39,Adult
+10799,Colton,Mack,1990-04-07 00:00:00.000000,1161,3,Colton Mack,35,Young Adult
+10564,Amal,Duran,1968-07-22 00:00:00.000000,1052,3,Amal Duran,57,Adult
+10128,Lexie,Mckinney,2025-12-05 15:01:42.854835,946,1,Lexie Mckinney,0,Minor
+10488,Dagny,Chapman,1980-08-26 00:00:00.000000,935,2,Dagny Chapman,45,Adult
+10742,Victor,Eaton,1976-04-14 00:00:00.000000,392,2,Victor Eaton,49,Adult
+10346,Cruz,May,1989-10-31 00:00:00.000000,891,2,Cruz May,36,Adult
+10444,Suk,Hewitt,1982-10-10 00:00:00.000000,540,1,Suk Hewitt,43,Adult
+10860,Jess,Griffin,1973-08-11 00:00:00.000000,360,2,Jess Griffin,52,Adult
+10447,Marketta,Jacobs,1966-10-15 00:00:00.000000,128,1,Marketta Jacobs,59,Adult
+10134,Shemika,Pena,1982-08-31 00:00:00.000000,291,3,Shemika Pena,43,Adult
+11024,Apryl,Short,1965-10-22 00:00:00.000000,47,3,Apryl Short,60,Adult
+10701,Eufemia,Martinez,1978-06-26 00:00:00.000000,740,3,Eufemia Martinez,47,Adult
+10005,Orlando,Valencia,1962-01-06 00:00:00.000000,641,1,Orlando Valencia,64,Senior
+10529,Drew,Whitley,1973-01-06 00:00:00.000000,490,1,Drew Whitley,53,Adult
+10238,Kermit,Harris,1979-09-04 00:00:00.000000,148,2,Kermit Harris,46,Adult
+10974,Santiago,Burton,1999-03-30 00:00:00.000000,1143,3,Santiago Burton,26,Young Adult
+10707,Fransisca,Barker,1983-11-16 00:00:00.000000,980,1,Fransisca Barker,42,Adult
+10714,Rachal,Cervantes,1968-01-20 00:00:00.000000,1205,1,Rachal Cervantes,58,Adult
+10874,Dorthey,Ashley,1979-12-13 00:00:00.000000,381,2,Dorthey Ashley,46,Adult
+10162,Silva,Riggs,1992-01-01 00:00:00.000000,728,1,Silva Riggs,34,Young Adult
+10811,Santos,Drake,1963-06-17 00:00:00.000000,63,3,Santos Drake,62,Senior
+10389,Francie,Daugherty,1986-04-25 00:00:00.000000,703,2,Francie Daugherty,39,Adult
+10911,Emil,Cotton,1969-11-07 00:00:00.000000,327,2,Emil Cotton,56,Adult
+10440,Deshawn,Gutierrez,1967-06-16 00:00:00.000000,1108,3,Deshawn Gutierrez,58,Adult
+11000,Marylyn,Henry,1968-05-03 00:00:00.000000,673,2,Marylyn Henry,57,Adult
+10176,Maisha,Wilkins,1977-02-04 00:00:00.000000,289,2,Maisha Wilkins,48,Adult
+11079,Michel,Briggs,1969-03-13 00:00:00.000000,71,3,Michel Briggs,56,Adult
+10102,Unknow,Potts,1977-12-25 00:00:00.000000,292,3,Unknow Potts,48,Adult
+10628,Fredda,Morrison,1983-09-07 00:00:00.000000,633,2,Fredda Morrison,42,Adult
+10723,Harlan,Baldwin,,892,2,Harlan Baldwin,45,Adult
+10473,Shay,Kane,1991-11-08 00:00:00.000000,282,2,Shay Kane,34,Young Adult
+10848,Nguyet,Sutton,1984-06-06 00:00:00.000000,667,1,Nguyet Sutton,41,Adult
+10822,Blondell,Wolf,1972-06-28 00:00:00.000000,1202,3,Blondell Wolf,53,Adult
+10041,Boyd,Mays,1990-02-26 00:00:00.000000,1055,3,Boyd Mays,35,Young Adult
+10480,Lavera,Woodard,1994-03-04 00:00:00.000000,1,2,Lavera Woodard,31,Young Adult
+10517,Latrisha,Sosa,1975-04-06 00:00:00.000000,719,2,Latrisha Sosa,50,Adult
+10857,Rich,Woodward,1968-04-10 00:00:00.000000,640,2,Rich Woodward,57,Adult
+10492,Velvet,Knowles,1991-02-25 00:00:00.000000,980,2,Velvet Knowles,34,Young Adult
+10680,Audria,Larsen,1989-11-07 00:00:00.000000,301,1,Audria Larsen,36,Adult
+10025,Breann,Reeves,1980-01-16 00:00:00.000000,878,2,Breann Reeves,46,Adult
+10430,Jamika,Cole,1981-12-26 00:00:00.000000,212,2,Jamika Cole,44,Adult
+11007,Bob,Shepard,1961-07-23 00:00:00.000000,890,3,Bob Shepard,64,Senior
+10367,Jama,Gilmore,1968-04-03 00:00:00.000000,263,3,Jama Gilmore,57,Adult
+11026,Wynell,Myers,1981-12-21 00:00:00.000000,320,1,Wynell Myers,44,Adult
+10469,Tanna,Willis,1969-05-02 00:00:00.000000,185,1,Tanna Willis,56,Adult
+10418,Jae,Bowman,1965-07-13 00:00:00.000000,741,1,Jae Bowman,60,Adult
+10801,Carey,unknow,1973-10-05 00:00:00.000000,630,1,Carey unknow,52,Adult
+10548,Merilyn,Daugherty,1976-05-23 00:00:00.000000,705,1,Merilyn Daugherty,49,Adult
+10829,Mac,Booker,1960-12-07 00:00:00.000000,1115,2,Mac Booker,65,Senior
+10556,Arcelia,Harding,1987-04-15 00:00:00.000000,672,2,Arcelia Harding,38,Adult
+10601,Jamey,Hendrix,1993-01-14 00:00:00.000000,1087,1,Jamey Hendrix,33,Young Adult
+10818,Nikole,Garza,1990-01-31 00:00:00.000000,161,3,Nikole Garza,35,Young Adult
+10856,Don,Bird,1991-08-30 00:00:00.000000,1176,1,Don Bird,34,Young Adult
+10067,Shyla,unknow,1962-08-11 00:00:00.000000,1079,2,Shyla unknow,63,Senior
+10487,Roscoe,Carlson,1962-04-18 00:00:00.000000,134,1,Roscoe Carlson,63,Senior
+10315,Iesha,Sampson,1975-10-30 00:00:00.000000,690,2,Iesha Sampson,50,Adult
+10368,Duncan,Bowers,1986-08-11 00:00:00.000000,128,1,Duncan Bowers,39,Adult
+10817,Ming,Dennis,1962-08-27 00:00:00.000000,265,1,Ming Dennis,63,Senior
+11065,Despina,Heath,1999-04-28 00:00:00.000000,1095,1,Despina Heath,26,Young Adult
+10474,Roscoe,Hayden,,186,2,Roscoe Hayden,45,Adult
+11054,Tandra,Rosales,1993-07-02 00:00:00.000000,550,2,Tandra Rosales,32,Young Adult
+11059,Unknow,Lawrence,1994-12-03 00:00:00.000000,2,1,Unknow Lawrence,31,Young Adult
+10171,Lou,Zamora,1978-06-29 00:00:00.000000,806,3,Lou Zamora,47,Adult
+11003,Lauran,Mcmillan,1983-06-01 00:00:00.000000,1210,1,Lauran Mcmillan,42,Adult
+10809,Tonette,Cobb,1964-02-20 00:00:00.000000,982,2,Tonette Cobb,61,Senior
+10099,Georgiann,Whitnker,1963-08-10 00:00:00.000000,762,3,Georgiann Whitnker,62,Senior
+10428,Raphael,Lewis,1966-09-13 00:00:00.000000,1163,2,Raphael Lewis,59,Adult
+10457,Louanne,Hodge,2000-09-13 00:00:00.000000,146,1,Louanne Hodge,25,Young Adult
+10868,Kimberlie,Harmon,1971-12-07 00:00:00.000000,155,2,Kimberlie Harmon,54,Adult
+10349,Quentin,Dalton,1985-10-04 00:00:00.000000,1023,3,Quentin Dalton,40,Adult
+11048,Lavona,Mooney,1966-06-30 00:00:00.000000,15,1,Lavona Mooney,59,Adult
+10546,Freeman,Black,1965-10-06 00:00:00.000000,1074,3,Freeman Black,60,Adult
+10270,Jene,Mcintosh,1970-06-02 00:00:00.000000,844,1,Jene Mcintosh,55,Adult
+10319,Yee,Garcia,1974-12-01 00:00:00.000000,1204,3,Yee Garcia,51,Adult
+10732,Mao,Walls,1979-05-23 00:00:00.000000,806,2,Mao Walls,46,Adult
+10160,Chun,Sparks,1966-01-02 00:00:00.000000,923,2,Chun Sparks,60,Adult
+10104,Unknow,Curry,1968-12-19 00:00:00.000000,824,1,Unknow Curry,57,Adult
+10173,Hassie,Gregory,1962-04-22 00:00:00.000000,820,3,Hassie Gregory,63,Senior
+10326,Tatyana,Morrison,1981-06-03 00:00:00.000000,798,1,Tatyana Morrison,44,Adult
+10509,Fernando,Ortega,1972-01-06 00:00:00.000000,730,2,Fernando Ortega,54,Adult
+10021,Weldon,FultoD,1990-04-20 00:00:00.000000,689,3,Weldon FultoD,35,Young Adult
+10247,Neil,Adkins,1977-10-02 00:00:00.000000,737,1,Neil Adkins,48,Adult
+11058,Terry,Harmon,1997-10-01 00:00:00.000000,240,1,Terry Harmon,28,Young Adult
+10538,Russell,Massey,1994-01-09 00:00:00.000000,46,3,Russell Massey,32,Young Adult
+10592,Lester,Wright,1997-10-05 00:00:00.000000,961,2,Lester Wright,28,Young Adult
+10834,Felton,Hamilton,1993-04-23 00:00:00.000000,988,2,Felton Hamilton,32,Young Adult
+10791,Thresa,Levine,1978-10-11 00:00:00.000000,819,2,Thresa Levine,47,Adult
+10621,Christene,Chambers,1989-10-21 00:00:00.000000,28,3,Christene Chambers,36,Adult
+10164,Kalyn,Davidson,1977-02-27 00:00:00.000000,1145,1,Kalyn Davidson,48,Adult
+10417,Florencia,Abbott,1998-05-14 00:00:00.000000,31,3,Florencia Abbott,27,Young Adult
+10285,Myung,Shields,1964-07-17 00:00:00.000000,548,3,Myung Shields,61,Senior
+10667,Rudy,Waller,1984-01-02 00:00:00.000000,322,1,Rudy Waller,42,Adult
+10823,Cecil,Dillard,1993-04-29 00:00:00.000000,359,1,Cecil Dillard,32,Young Adult
+11070,Clyde,Bird,2026-06-08 15:01:42.854835,691,3,Clyde Bird,45,Adult
+10789,Livia,Carroll,1998-07-21 00:00:00.000000,115,1,Livia Carroll,27,Young Adult
+10770,Tawna,Hess,1996-01-10 00:00:00.000000,1146,2,Tawna Hess,30,Young Adult
+10236,Mertie,Mccray,1971-05-19 00:00:00.000000,79,1,Mertie Mccray,54,Adult
+10382,Mitch,Brady,1960-01-27 00:00:00.000000,477,2,Mitch Brady,65,Senior
+10838,Phylicia,Charles,1999-10-25 00:00:00.000000,584,1,Phylicia Charles,26,Young Adult
+10730,Gonzalo,Vaughn,1983-07-23 00:00:00.000000,707,1,Gonzalo Vaughn,42,Adult
+10719,Dakota,Palmer,1969-08-02 00:00:00.000000,745,2,Dakota Palmer,56,Adult
+10155,Harris,Dillon,1976-08-08 00:00:00.000000,480,2,Harris Dillon,49,Adult
+10305,Londa,Mcdaniel,1970-06-16 00:00:00.000000,562,3,Londa Mcdaniel,55,Adult
+10091,William,Nieves,1970-05-22 00:00:00.000000,420,3,William Nieves,55,Adult
+10433,Sherlene,Walker,1970-05-11 00:00:00.000000,532,2,Sherlene Walker,55,Adult
+10399,Ariel,Levine,1969-06-04 00:00:00.000000,902,1,Ariel Levine,56,Adult
+10394,Valentine,Griffith,1963-12-25 00:00:00.000000,1024,3,Valentine Griffith,62,Senior
+10453,Jeremiah,Terrell,1975-12-03 00:00:00.000000,153,2,Jeremiah Terrell,50,Adult
+10765,Junior,Witt,1992-07-09 00:00:00.000000,870,1,Junior Witt,33,Young Adult
+10869,Glenn,Glenn,1992-11-20 00:00:00.000000,662,2,Glenn Glenn,33,Young Adult
+10522,Thersa,Myers,1974-12-06 00:00:00.000000,622,2,Thersa Myers,51,Adult
+10915,Natisha,Mccarthy,1968-11-08 00:00:00.000000,968,3,Natisha Mccarthy,57,Adult
+10840,Marvin,Santiago,1971-02-08 00:00:00.000000,397,3,Marvin Santiago,54,Adult
+10903,Cecille,Lewis,1981-03-21 00:00:00.000000,409,2,Cecille Lewis,44,Adult
+10244,Ara,Miller,1975-10-06 00:00:00.000000,458,2,Ara Miller,50,Adult
+10181,Rosenda,Bartlett,1976-09-19 00:00:00.000000,374,2,Rosenda Bartlett,49,Adult
+10406,Enrique,Burgess,1967-10-17 00:00:00.000000,73,1,Enrique Burgess,58,Adult
+10405,Huey,Middleton,1973-06-01 00:00:00.000000,165,3,Huey Middleton,52,Adult
+10692,Denae,Richmond,1992-09-22 00:00:00.000000,1064,1,Denae Richmond,33,Young Adult
+11009,Shane,Daniels,1973-06-06 00:00:00.000000,881,3,Shane Daniels,52,Adult
+10894,Gaston,Chavez,1968-11-30 00:00:00.000000,805,2,Gaston Chavez,57,Adult
+10353,Loren,Day,1983-05-10 00:00:00.000000,913,2,Loren Day,42,Adult
+10715,Preston,Shepard,1962-03-04 00:00:00.000000,442,3,Preston Shepard,63,Senior
+10609,Carli,Sampson,1963-04-22 00:00:00.000000,138,1,Carli Sampson,62,Senior
+10866,Glen,Barton,1998-05-02 00:00:00.000000,805,2,Glen Barton,27,Young Adult
+10019,Rey,Anthony,1966-05-27 00:00:00.000000,291,3,Rey Anthony,59,Adult
+10853,Demetrius,Diaz,1977-09-20 00:00:00.000000,371,1,Demetrius Diaz,48,Adult
+10408,Dean,Huffman,1962-01-15 00:00:00.000000,715,1,Dean Huffman,64,Senior
+10889,Mack,Edwards,2000-11-29 00:00:00.000000,267,3,Mack Edwards,25,Young Adult
+10651,Kathern,Silva,1963-04-17 00:00:00.000000,784,3,Kathern Silva,62,Senior
+10204,Lenna,Terrell,1997-08-31 00:00:00.000000,5,1,Lenna Terrell,28,Young Adult
+10114,Jacqulyn,Jarvis,1972-08-26 00:00:00.000000,701,3,Jacqulyn Jarvis,53,Adult
+10905,Shavon,Barron,1984-06-18 00:00:00.000000,1012,3,Shavon Barron,41,Adult
+10781,Olin,Foster,1965-02-28 00:00:00.000000,681,2,Olin Foster,60,Adult
+10018,Augustus,Pennington,1985-03-02 00:00:00.000000,589,1,Augustus Pennington,40,Adult
+10870,Raleigh,Nelson,1961-05-12 00:00:00.000000,1193,2,Raleigh Nelson,64,Senior
+10524,Darn,Arnold,1968-04-24 00:00:00.000000,55,3,Darn Arnold,57,Adult
+10188,Rozanne,Frye,1972-10-02 00:00:00.000000,275,1,Rozanne Frye,53,Adult
+10718,Wilbert,Gallagher,,227,3,Wilbert Gallagher,45,Adult
+10576,Bryant,Blake,1960-10-05 00:00:00.000000,32,1,Bryant Blake,65,Senior
+10088,Lizzette,Skinner,1962-08-31 00:00:00.000000,9,3,Lizzette Skinner,63,Senior
+10450,Lisbeth,Buchanan,1967-09-20 00:00:00.000000,271,2,Lisbeth Buchanan,58,Adult
+10939,Cliff,Gonzalez,1989-04-16 00:00:00.000000,340,3,Cliff Gonzalez,36,Adult
+10341,Horacio,Hays,1980-01-31 00:00:00.000000,144,3,Horacio Hays,45,Adult
+10280,Reginald,Buck,1976-10-08 00:00:00.000000,1019,3,Reginald Buck,49,Adult
+11074,Lovella,Knowles,1960-11-26 00:00:00.000000,513,3,Lovella Knowles,65,Senior
+10163,Sherwood,Douglas,1966-10-19 00:00:00.000000,284,2,Sherwood Douglas,59,Adult
+10100,Clora,unknow,1966-09-16 00:00:00.000000,691,1,Clora unknow,59,Adult
+10195,Marcelino,unknow,1967-04-03 00:00:00.000000,817,2,Marcelino unknow,58,Adult
+10284,Janessa,Watson,1994-08-03 00:00:00.000000,580,1,Janessa Watson,31,Young Adult
+10496,Unknow,Christian,1987-02-03 00:00:00.000000,1185,2,Unknow Christian,38,Adult
+10371,Carmelina,Hull,1991-05-07 00:00:00.000000,734,3,Carmelina Hull,34,Young Adult
+10265,Myung,Bean,1981-12-29 00:00:00.000000,1077,1,Myung Bean,44,Adult
+10003,Marcelo,Everett,1990-01-04 00:00:00.000000,930,3,Marcelo Everett,36,Adult
+10010,Violette,Dejesus,1978-12-26 00:00:00.000000,525,3,Violette Dejesus,47,Adult
+10395,Azalee,Hooper,1963-03-12 00:00:00.000000,511,2,Azalee Hooper,62,Senior
+11068,Alvin,Roberts,1984-05-25 00:00:00.000000,923,1,Alvin Roberts,41,Adult
+10886,Deane,Bauer,1970-11-21 00:00:00.000000,427,3,Deane Bauer,55,Adult
+10502,Dion,Nelson,1996-06-08 00:00:00.000000,509,1,Dion Nelson,29,Young Adult
+10199,Yen,Kim,1993-04-12 00:00:00.000000,685,1,Yen Kim,32,Young Adult
+10282,Billie,Yates,1987-04-03 00:00:00.000000,6,2,Billie Yates,38,Adult
+10411,Jeni,Romero,1977-07-01 00:00:00.000000,990,3,Jeni Romero,48,Adult
+10595,Wyatt,Mack,1991-07-07 00:00:00.000000,875,2,Wyatt Mack,34,Young Adult
+11036,Harlan,Caldwell,1977-11-13 00:00:00.000000,107,2,Harlan Caldwell,48,Adult
+10587,Sage,Walsh,1990-03-11 00:00:00.000000,189,1,Sage Walsh,35,Young Adult
+10725,Jaleesa,Cole,1980-05-16 00:00:00.000000,58,1,Jaleesa Cole,45,Adult
+10299,Avery,Floyd,1999-10-04 00:00:00.000000,129,1,Avery Floyd,26,Young Adult
+10262,Stacy,Spence,1967-09-12 00:00:00.000000,992,3,Stacy Spence,58,Adult
+10581,Carline,Sosa,1989-05-19 00:00:00.000000,1170,2,Carline Sosa,36,Adult
+10966,Sunni,Faulkner,1988-06-08 00:00:00.000000,988,3,Sunni Faulkner,37,Adult
+10141,Elicia,Shaw,1980-06-22 00:00:00.000000,362,3,Elicia Shaw,45,Adult
+10416,Johnathan,Yates,1976-02-04 00:00:00.000000,409,1,Johnathan Yates,49,Adult
+10231,Ching,Hoffman,1960-04-21 00:00:00.000000,403,3,Ching Hoffman,65,Senior
+10544,Johnny,Clayton,2000-10-25 00:00:00.000000,594,3,Johnny Clayton,25,Young Adult
+11075,Normand,Blair,1996-05-05 00:00:00.000000,1124,2,Normand Blair,29,Young Adult
+10318,Fletcher,Stanton,1979-07-06 00:00:00.000000,551,3,Fletcher Stanton,46,Adult
+10372,Marhta,Keith,1964-05-12 00:00:00.000000,934,1,Marhta Keith,61,Senior
+11027,Hayden,Gardner,1964-06-27 00:00:00.000000,1010,3,Hayden Gardner,61,Senior
+11092,Thanh,Acevedo,1976-06-30 00:00:00.000000,1085,3,Thanh Acevedo,49,Adult
+11097,Karma,Potts,1969-12-08 00:00:00.000000,274,2,Karma Potts,56,Adult
+10616,Isadora,Mckee,2026-04-14 15:01:42.854835,322,2,Isadora Mckee,45,Adult
+10794,Jolie,Perkins,1961-02-08 00:00:00.000000,484,2,Jolie Perkins,64,Senior
+11056,Hobert,Howell,1984-10-02 00:00:00.000000,1039,3,Hobert Howell,41,Adult
+10294,Anjanette,unknow,1979-02-27 00:00:00.000000,675,1,Anjanette unknow,46,Adult
+10477,Allegra,Vinson,1970-04-07 00:00:00.000000,1153,1,Allegra Vinson,55,Adult
+11037,Sherwood,Parker,1970-05-02 00:00:00.000000,155,3,Sherwood Parker,55,Adult
+10825,Hugh,Mills,1974-07-03 00:00:00.000000,857,3,Hugh Mills,51,Adult
+10369,Florencia,Hale,1963-06-12 00:00:00.000000,253,3,Florencia Hale,62,Senior
+10527,Steffanie,Vang,1995-01-28 00:00:00.000000,652,1,Steffanie Vang,30,Young Adult
+10776,Jarrett,Dillard,1990-08-28 00:00:00.000000,579,2,Jarrett Dillard,35,Young Adult
+10101,Hector,Calhoun,1960-06-01 00:00:00.000000,653,2,Hector Calhoun,65,Senior
+10182,Alfonso,Pennington,,343,1,Alfonso Pennington,45,Adult
+10380,Malik,Graham,1969-01-23 00:00:00.000000,71,2,Malik Graham,56,Adult
+10293,Oretha,Sullivan,1967-02-11 00:00:00.000000,833,2,Oretha Sullivan,58,Adult
+10571,Marcellus,Gilliam,2000-02-24 00:00:00.000000,119,1,Marcellus Gilliam,25,Young Adult
+10596,Lorriane,Flowers,1995-11-07 00:00:00.000000,457,3,Lorriane Flowers,30,Young Adult
+11029,Vance,Spencer,1995-12-19 00:00:00.000000,181,2,Vance Spencer,30,Young Adult
+10792,Lilliana,Gardner,1974-03-15 00:00:00.000000,793,3,Lilliana Gardner,51,Adult
+11052,Perry,Chang,1977-06-07 00:00:00.000000,977,3,Perry Chang,48,Adult
+10321,Mack,Goodwin,1989-09-18 00:00:00.000000,246,3,Mack Goodwin,36,Adult
+10200,Kathey,Reilly,1971-01-31 00:00:00.000000,272,3,Kathey Reilly,54,Adult
+10216,Seymour,Byers,,290,2,Seymour Byers,45,Adult
+10119,Donetta,Heath,1989-10-16 00:00:00.000000,512,1,Donetta Heath,36,Adult
+10976,Regena,Atkinson,1980-02-26 00:00:00.000000,834,1,Regena Atkinson,45,Adult
+11064,Emmy,Peterson,1983-05-20 00:00:00.000000,991,1,Emmy Peterson,42,Adult
+10241,Major,Ingram,1972-05-19 00:00:00.000000,67,1,Major Ingram,53,Adult
+10694,Gaylord,Pratt,1966-11-06 00:00:00.000000,415,2,Gaylord Pratt,59,Adult
+10910,Chi,Navarro,1960-08-04 00:00:00.000000,987,3,Chi Navarro,65,Senior
+10623,Arianna,Carr,1979-07-13 00:00:00.000000,40,1,Arianna Carr,46,Adult
+10152,Samual,Winters,1998-12-03 00:00:00.000000,690,1,Samual Winters,27,Young Adult
+11046,Young,Holder,1984-03-10 00:00:00.000000,648,2,Young Holder,41,Adult
+10429,Marth,Huffman,1967-11-22 00:00:00.000000,743,1,Marth Huffman,58,Adult
+10120,Libbie,Hurley,1978-08-26 00:00:00.000000,242,3,Libbie Hurley,47,Adult
+10422,Klara,Robles,1970-04-14 00:00:00.000000,618,3,Klara Robles,55,Adult
+10864,Conception,Hopper,1975-10-05 00:00:00.000000,733,1,Conception Hopper,50,Adult
+11028,Cory,Trujillo,1987-10-11 00:00:00.000000,1195,3,Cory Trujillo,38,Adult
+10014,Syreeta,unknow,1969-09-18 00:00:00.000000,517,3,Syreeta unknow,56,Adult
+10445,Kallie,Mclaughlin,1999-06-04 00:00:00.000000,180,1,Kallie Mclaughlin,26,Young Adult
+10297,Alec,Trevino,1960-02-27 00:00:00.000000,911,2,Alec Trevino,65,Senior
+10076,Thad,Bates,1986-12-15 00:00:00.000000,1182,3,Thad Bates,39,Adult
+10613,Stanley,Lewis,1966-03-31 00:00:00.000000,567,3,Stanley Lewis,59,Adult
+11089,Deedee,Sullivan,1976-11-04 00:00:00.000000,313,2,Deedee Sullivan,49,Adult
+10472,Cristobal,Lowery,1981-10-12 00:00:00.000000,68,3,Cristobal Lowery,44,Adult
+10446,Clifford,Moore,1961-03-30 00:00:00.000000,400,1,Clifford Moore,64,Senior
+11043,Melodee,Marquez,1976-07-30 00:00:00.000000,762,3,Melodee Marquez,49,Adult
+10057,Alysa,Baldwin,1986-05-17 00:00:00.000000,100,3,Alysa Baldwin,39,Adult
+10796,Johanne,Powers,1971-07-19 00:00:00.000000,158,1,Johanne Powers,54,Adult
+10643,Carylon,Meyers,1968-04-02 00:00:00.000000,222,2,Carylon Meyers,57,Adult
+10611,Nathanael,Middleton,1975-12-17 00:00:00.000000,520,1,Nathanael Middleton,50,Adult
+10783,Grover,Brennan,1984-06-18 00:00:00.000000,774,1,Grover Brennan,41,Adult
+10360,Sheldon,Vang,1976-09-09 00:00:00.000000,235,3,Sheldon Vang,49,Adult
+11071,Adam,unknow,1980-12-19 00:00:00.000000,391,3,Adam unknow,45,Adult
+10605,Eugene,Navarro,1997-12-02 00:00:00.000000,401,3,Eugene Navarro,28,Young Adult
+10257,Lad,Castro,1979-10-31 00:00:00.000000,1180,3,Lad Castro,46,Adult
+10116,Rebecka,Petty,1973-07-11 00:00:00.000000,234,2,Rebecka Petty,52,Adult
